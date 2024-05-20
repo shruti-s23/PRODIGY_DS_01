@@ -1,0 +1,599 @@
+Entity,Code,Year,Historical and more recent literacy estimates
+Belgium,BEL,1475,10.0
+France,FRA,1475,6.0
+Germany,DEU,1475,9.0
+Ireland,IRL,1475,0.0
+Italy,ITA,1475,15.0
+Netherlands,NLD,1475,17.0
+Poland,POL,1475,0.0
+Spain,ESP,1475,3.0
+Sweden,SWE,1475,1.0
+United Kingdom,GBR,1475,5.0
+Belgium,BEL,1550,17.0
+France,FRA,1550,19.0
+Germany,DEU,1550,16.0
+Ireland,IRL,1550,0.0
+Italy,ITA,1550,18.0
+Netherlands,NLD,1550,12.0
+Poland,POL,1550,0.0
+Spain,ESP,1550,4.0
+Sweden,SWE,1550,1.0
+United Kingdom,GBR,1550,16.0
+Belgium,BEL,1650,25.0
+France,FRA,1650,29.0
+Germany,DEU,1650,31.0
+Ireland,IRL,1650,3.0
+Italy,ITA,1650,23.0
+Netherlands,NLD,1650,53.0
+Poland,POL,1650,3.0
+Spain,ESP,1650,5.0
+Sweden,SWE,1650,23.0
+United Kingdom,GBR,1650,53.0
+Belgium,BEL,1750,13.0
+France,FRA,1750,29.0
+Germany,DEU,1750,38.0
+Ireland,IRL,1750,21.0
+Italy,ITA,1750,23.0
+Netherlands,NLD,1750,85.0
+Poland,POL,1750,5.0
+Spain,ESP,1750,8.0
+Sweden,SWE,1750,48.0
+United Kingdom,GBR,1750,54.0
+France,FRA,1820,38.0
+Italy,ITA,1820,22.0
+Russia,RUS,1820,8.0
+Spain,ESP,1820,20.0
+Sweden,SWE,1820,75.0
+United Kingdom,GBR,1820,53.0
+World,OWID_WRL,1820,12.0
+France,FRA,1870,69.0
+Italy,ITA,1870,32.0
+Russia,RUS,1870,15.0
+Spain,ESP,1870,30.0
+Sweden,SWE,1870,80.0
+United Kingdom,GBR,1870,76.0
+United States,USA,1870,80.0
+World,OWID_WRL,1870,19.0
+United States,USA,1880,83.0
+World,OWID_WRL,1880,20.0
+United States,USA,1890,86.7
+World,OWID_WRL,1890,21.0
+Argentina,ARG,1900,51.3
+Bolivia,BOL,1900,18.0
+Brazil,BRA,1900,35.0
+Chile,CHL,1900,43.0
+Colombia,COL,1900,34.0
+Costa Rica,CRI,1900,36.0
+Cuba,CUB,1900,46.0
+Ecuador,ECU,1900,33.0
+El Salvador,SLV,1900,26.0
+Guatemala,GTM,1900,12.0
+Haiti,HTI,1900,8.0
+Honduras,HND,1900,28.0
+Mexico,MEX,1900,24.0
+Panama,PAN,1900,17.0
+Paraguay,PRY,1900,31.0
+Peru,PER,1900,24.0
+United States,USA,1900,89.3
+Uruguay,URY,1900,59.0
+Venezuela,VEN,1900,28.0
+World,OWID_WRL,1900,21.0
+Argentina,ARG,1910,60.4
+Bolivia,BOL,1910,20.0
+Brazil,BRA,1910,35.0
+Chile,CHL,1910,53.0
+Colombia,COL,1910,39.0
+Costa Rica,CRI,1910,46.0
+Cuba,CUB,1910,57.0
+Ecuador,ECU,1910,38.0
+El Salvador,SLV,1910,27.0
+Guatemala,GTM,1910,13.0
+Haiti,HTI,1910,8.0
+Honduras,HND,1910,30.0
+Mexico,MEX,1910,30.0
+Panama,PAN,1910,27.0
+Paraguay,PRY,1910,38.0
+Peru,PER,1910,29.0
+United States,USA,1910,92.3
+Uruguay,URY,1910,65.0
+Venezuela,VEN,1910,29.0
+World,OWID_WRL,1910,26.0
+Argentina,ARG,1920,68.2
+Bolivia,BOL,1920,22.0
+Brazil,BRA,1920,35.0
+Chile,CHL,1920,63.0
+Colombia,COL,1920,44.0
+Costa Rica,CRI,1920,57.0
+Cuba,CUB,1920,64.0
+Dominican Republic,DOM,1920,29.0
+Ecuador,ECU,1920,42.0
+El Salvador,SLV,1920,27.0
+Guatemala,GTM,1920,15.0
+Haiti,HTI,1920,8.0
+Honduras,HND,1920,32.0
+Mexico,MEX,1920,35.0
+Nicaragua,NIC,1920,39.0
+Panama,PAN,1920,42.0
+Paraguay,PRY,1920,45.0
+Peru,PER,1920,33.0
+United States,USA,1920,94.0
+Uruguay,URY,1920,70.0
+Venezuela,VEN,1920,32.0
+World,OWID_WRL,1920,32.0
+Argentina,ARG,1930,74.9
+Bolivia,BOL,1930,25.0
+Brazil,BRA,1930,39.0
+Chile,CHL,1930,75.0
+Colombia,COL,1930,52.0
+Costa Rica,CRI,1930,67.0
+Cuba,CUB,1930,71.0
+Dominican Republic,DOM,1930,26.0
+Ecuador,ECU,1930,46.0
+El Salvador,SLV,1930,28.0
+Guatemala,GTM,1930,19.0
+Haiti,HTI,1930,8.0
+Honduras,HND,1930,33.0
+Mexico,MEX,1930,36.0
+Nicaragua,NIC,1930,39.0
+Panama,PAN,1930,46.0
+Paraguay,PRY,1930,52.0
+Peru,PER,1930,37.0
+United States,USA,1930,95.7
+Uruguay,URY,1930,76.0
+Venezuela,VEN,1930,36.0
+World,OWID_WRL,1930,33.0
+Argentina,ARG,1940,81.7
+Bolivia,BOL,1940,28.0
+Brazil,BRA,1940,44.0
+Chile,CHL,1940,73.0
+Colombia,COL,1940,57.0
+Costa Rica,CRI,1940,73.0
+Cuba,CUB,1940,76.0
+Dominican Republic,DOM,1940,30.0
+Ecuador,ECU,1940,51.0
+El Salvador,SLV,1940,35.0
+Guatemala,GTM,1940,24.0
+Haiti,HTI,1940,9.0
+Honduras,HND,1940,35.0
+Mexico,MEX,1940,46.0
+Nicaragua,NIC,1940,38.0
+Panama,PAN,1940,58.0
+Paraguay,PRY,1940,59.0
+Peru,PER,1940,42.0
+United States,USA,1940,97.1
+Uruguay,URY,1940,81.0
+Venezuela,VEN,1940,42.0
+World,OWID_WRL,1940,42.0
+United States,USA,1947,97.3
+Argentina,ARG,1950,87.6
+Bolivia,BOL,1950,32.0
+Brazil,BRA,1950,49.0
+Chile,CHL,1950,79.0
+Colombia,COL,1950,62.0
+Costa Rica,CRI,1950,79.0
+Cuba,CUB,1950,78.0
+Dominican Republic,DOM,1950,43.0
+Ecuador,ECU,1950,56.0
+El Salvador,SLV,1950,42.0
+Guatemala,GTM,1950,29.0
+Haiti,HTI,1950,11.0
+Honduras,HND,1950,40.0
+Mexico,MEX,1950,60.0
+Nicaragua,NIC,1950,38.0
+Panama,PAN,1950,67.0
+Paraguay,PRY,1950,66.0
+Peru,PER,1950,51.0
+United States,USA,1950,96.8
+Uruguay,URY,1950,86.0
+Venezuela,VEN,1950,51.0
+World,OWID_WRL,1950,36.0
+United States,USA,1952,97.5
+United States,USA,1959,97.8
+Argentina,ARG,1960,91.4
+Bolivia,BOL,1960,44.0
+Brazil,BRA,1960,60.0
+Chile,CHL,1960,84.0
+Colombia,COL,1960,70.0
+Costa Rica,CRI,1960,83.0
+Cuba,CUB,1960,79.0
+Dominican Republic,DOM,1960,64.0
+Ecuador,ECU,1960,65.0
+El Salvador,SLV,1960,48.0
+Guatemala,GTM,1960,35.0
+Haiti,HTI,1960,16.0
+Honduras,HND,1960,44.0
+Mexico,MEX,1960,65.0
+Nicaragua,NIC,1960,47.0
+Panama,PAN,1960,73.0
+Paraguay,PRY,1960,73.0
+Peru,PER,1960,60.0
+Uruguay,URY,1960,89.0
+Venezuela,VEN,1960,62.0
+World,OWID_WRL,1960,42.0
+United States,USA,1969,99.0
+Wallis and Futuna,WLF,1969,50.0
+Argentina,ARG,1970,93.0
+Bolivia,BOL,1970,58.0
+Brazil,BRA,1970,68.0
+Chile,CHL,1970,88.0
+Colombia,COL,1970,78.0
+Costa Rica,CRI,1970,88.0
+Cuba,CUB,1970,89.0
+Dominican Republic,DOM,1970,67.0
+Ecuador,ECU,1970,74.0
+El Salvador,SLV,1970,58.0
+Guatemala,GTM,1970,45.0
+Haiti,HTI,1970,22.0
+Honduras,HND,1970,53.0
+Mexico,MEX,1970,75.0
+Montserrat,MSR,1970,97.0
+Nicaragua,NIC,1970,57.0
+Panama,PAN,1970,79.0
+Paraguay,PRY,1970,80.0
+Peru,PER,1970,72.0
+Turks and Caicos Islands,TCA,1970,98.0
+Uruguay,URY,1970,93.0
+Venezuela,VEN,1970,76.0
+Bolivia,BOL,1971,59.0
+Colombia,COL,1971,79.0
+Costa Rica,CRI,1971,89.0
+Cuba,CUB,1971,90.0
+Dominican Republic,DOM,1971,68.0
+Ecuador,ECU,1971,75.0
+El Salvador,SLV,1971,59.0
+Guatemala,GTM,1971,46.0
+Haiti,HTI,1971,23.0
+Honduras,HND,1971,54.0
+Nicaragua,NIC,1971,57.0
+Panama,PAN,1971,80.0
+Paraguay,PRY,1971,80.0
+Uruguay,URY,1971,93.0
+Venezuela,VEN,1971,77.0
+Bolivia,BOL,1972,60.0
+Colombia,COL,1972,79.0
+Costa Rica,CRI,1972,89.0
+Cuba,CUB,1972,90.0
+Dominican Republic,DOM,1972,68.0
+Ecuador,ECU,1972,76.0
+El Salvador,SLV,1972,60.0
+Guatemala,GTM,1972,47.0
+Haiti,HTI,1972,24.0
+Honduras,HND,1972,55.0
+Nicaragua,NIC,1972,58.0
+Panama,PAN,1972,80.0
+Paraguay,PRY,1972,81.0
+Uruguay,URY,1972,93.0
+Venezuela,VEN,1972,78.0
+Bolivia,BOL,1973,61.0
+Colombia,COL,1973,80.0
+Costa Rica,CRI,1973,89.0
+Cuba,CUB,1973,90.0
+Dominican Republic,DOM,1973,69.0
+Ecuador,ECU,1973,77.0
+El Salvador,SLV,1973,61.0
+Guatemala,GTM,1973,48.0
+Haiti,HTI,1973,25.0
+Honduras,HND,1973,56.0
+Nicaragua,NIC,1973,58.0
+Panama,PAN,1973,81.0
+Paraguay,PRY,1973,82.0
+Uruguay,URY,1973,93.0
+Venezuela,VEN,1973,79.0
+Bolivia,BOL,1974,62.0
+Colombia,COL,1974,81.0
+Costa Rica,CRI,1974,90.0
+Cuba,CUB,1974,91.0
+Dominican Republic,DOM,1974,70.0
+Ecuador,ECU,1974,77.0
+El Salvador,SLV,1974,61.0
+Guatemala,GTM,1974,48.0
+Haiti,HTI,1974,25.0
+Honduras,HND,1974,57.0
+Nicaragua,NIC,1974,59.0
+Panama,PAN,1974,81.0
+Paraguay,PRY,1974,82.0
+Uruguay,URY,1974,94.0
+Venezuela,VEN,1974,80.0
+Bolivia,BOL,1975,63.0
+Colombia,COL,1975,81.0
+Costa Rica,CRI,1975,90.0
+Cuba,CUB,1975,91.0
+Dominican Republic,DOM,1975,70.0
+Ecuador,ECU,1975,78.0
+El Salvador,SLV,1975,62.0
+Guatemala,GTM,1975,49.0
+Haiti,HTI,1975,26.0
+Honduras,HND,1975,58.0
+Nicaragua,NIC,1975,59.0
+Panama,PAN,1975,82.0
+Paraguay,PRY,1975,83.0
+Venezuela,VEN,1975,80.0
+Colombia,COL,1976,82.0
+Costa Rica,CRI,1976,90.0
+Cuba,CUB,1976,91.0
+Dominican Republic,DOM,1976,71.0
+East Asia and the Pacific (WB),0,1976,65.691
+Ecuador,ECU,1976,79.0
+Guatemala,GTM,1976,50.0
+Haiti,HTI,1976,27.0
+Honduras,HND,1976,58.0
+Nicaragua,NIC,1976,59.0
+Panama,PAN,1976,83.0
+Paraguay,PRY,1976,84.0
+Venezuela,VEN,1976,81.0
+Colombia,COL,1977,82.0
+Costa Rica,CRI,1977,91.0
+Cuba,CUB,1977,92.0
+Dominican Republic,DOM,1977,72.0
+Ecuador,ECU,1977,80.0
+French Polynesia,PYF,1977,98.0
+Guatemala,GTM,1977,51.0
+Haiti,HTI,1977,28.0
+Honduras,HND,1977,59.0
+Nicaragua,NIC,1977,60.0
+Panama,PAN,1977,83.0
+Paraguay,PRY,1977,84.0
+Venezuela,VEN,1977,82.0
+Colombia,COL,1978,83.0
+Costa Rica,CRI,1978,91.0
+Cuba,CUB,1978,92.0
+Dominican Republic,DOM,1978,73.0
+Ecuador,ECU,1978,80.0
+Guatemala,GTM,1978,52.0
+Haiti,HTI,1978,29.0
+Honduras,HND,1978,60.0
+Nicaragua,NIC,1978,60.0
+Panama,PAN,1978,84.0
+Paraguay,PRY,1978,85.0
+Venezuela,VEN,1978,83.0
+Argentina,ARG,1979,94.2
+Brazil,BRA,1979,75.0
+Chile,CHL,1979,91.0
+Colombia,COL,1979,84.0
+Costa Rica,CRI,1979,91.0
+Cuba,CUB,1979,92.0
+Dominican Republic,DOM,1979,73.0
+Ecuador,ECU,1979,81.0
+Guatemala,GTM,1979,52.0
+Haiti,HTI,1979,30.0
+Honduras,HND,1979,61.0
+Mexico,MEX,1979,82.0
+Nicaragua,NIC,1979,61.0
+Panama,PAN,1979,84.0
+Paraguay,PRY,1979,85.0
+Peru,PER,1979,79.0
+United States,USA,1979,99.4
+Venezuela,VEN,1979,83.0
+Barbados,BRB,1980,99.5
+Chile,CHL,1980,92.0
+Colombia,COL,1980,84.0
+Costa Rica,CRI,1980,92.0
+Cuba,CUB,1980,93.0
+Dominican Republic,DOM,1980,74.0
+Ecuador,ECU,1980,82.0
+Grenada,GRD,1980,98.4
+Haiti,HTI,1980,31.0
+Honduras,HND,1980,61.0
+Micronesia,0,1980,89.0
+Nicaragua,NIC,1980,61.0
+Northern Mariana Islands,MNP,1980,97.0
+Paraguay,PRY,1980,86.0
+Peru,PER,1980,79.0
+Saint Vincent and the Grenadines,VCT,1980,96.9
+Venezuela,VEN,1980,84.0
+Colombia,COL,1981,85.0
+Costa Rica,CRI,1981,92.0
+Ecuador,ECU,1981,82.0
+Haiti,HTI,1981,31.0
+Honduras,HND,1981,62.0
+Nicaragua,NIC,1981,61.0
+Paraguay,PRY,1981,86.0
+Costa Rica,CRI,1982,92.0
+Honduras,HND,1982,63.0
+Nicaragua,NIC,1982,62.0
+Saint Pierre and Miquelon,SPM,1982,99.0
+Central Europe and the Baltics (WB),0,1983,97.999
+Costa Rica,CRI,1983,92.0
+Honduras,HND,1983,64.0
+Nicaragua,NIC,1983,62.0
+Anguilla,AIA,1984,95.0
+Honduras,HND,1984,64.0
+Nicaragua,NIC,1984,63.0
+Vanuatu,VUT,1984,58.2
+Honduras,HND,1985,65.0
+Nicaragua,NIC,1985,63.0
+Honduras,HND,1986,66.0
+Nicaragua,NIC,1986,63.0
+Honduras,HND,1987,66.0
+Nicaragua,NIC,1987,64.0
+Saint Helena,SHN,1987,97.0
+Honduras,HND,1988,67.0
+Nicaragua,NIC,1988,64.0
+Poland,POL,1988,99.3
+Honduras,HND,1989,68.0
+Nicaragua,NIC,1989,64.0
+Hungary,HUN,1990,99.1
+Nicaragua,NIC,1990,65.0
+Singapore,SGP,1990,89.096
+British Virgin Islands,VGB,1991,97.8
+Nicaragua,NIC,1991,65.0
+Nicaragua,NIC,1992,65.0
+Nicaragua,NIC,1993,66.0
+Libya,LBY,1994,76.5
+Nicaragua,NIC,1994,66.0
+Vanuatu,VUT,1994,68.7
+Yemen,YEM,1994,37.09
+Nicaragua,NIC,1995,67.0
+Egypt,EGY,1996,55.587
+Nicaragua,NIC,1996,67.0
+Nicaragua,NIC,1997,67.0
+Nicaragua,NIC,1998,68.0
+Nicaragua,NIC,1999,68.0
+Solomon Islands,SLB,1999,76.6
+Vanuatu,VUT,1999,74.0
+Finland,FIN,2000,100.0
+Guam,GUM,2000,99.56
+Latin America and Caribbean (WB),0,2000,88.956
+Luxembourg,LUX,2000,100.0
+Nicaragua,NIC,2000,66.0
+Trinidad and Tobago,TTO,2000,97.9
+Antigua and Barbuda,ATG,2001,98.95
+Belize,BLZ,2001,80.9
+East Timor,TLS,2001,37.6
+Greenland,GRL,2001,100.0
+Saint Lucia,LCA,2001,90.1
+Slovenia,SVN,2001,99.6
+Somalia,SOM,2001,37.8
+Barbados,BRB,2002,99.7
+Hong Kong,HKG,2002,93.5
+Iran,IRN,2002,77.0
+Japan,JPN,2002,99.0
+Australia,AUS,2003,99.0
+Bahamas,BHS,2003,95.6
+Belgium,BEL,2003,99.0
+Canada,CAN,2003,99.0
+Denmark,DNK,2003,99.0
+Djibouti,DJI,2003,67.9
+Dominica,DMA,2003,94.0
+Fiji,FJI,2003,93.7
+France,FRA,2003,99.0
+Germany,DEU,2003,99.0
+Grenada,GRD,2003,96.0
+Iceland,ISL,2003,99.0
+Ireland,IRL,2003,99.0
+Mali,MLI,2003,24.0
+Monaco,MCO,2003,99.0
+Netherlands,NLD,2003,99.0
+New Zealand,NZL,2003,99.0
+Saint Kitts and Nevis,KNA,2003,97.8
+Sweden,SWE,2003,99.0
+Switzerland,CHE,2003,99.0
+Taiwan,TWN,2003,96.1
+United Kingdom,GBR,2003,99.0
+United States,USA,2003,99.0
+Ethiopia,ETH,2004,35.9
+Israel,ISR,2004,97.1
+Slovakia,SVK,2004,99.6
+Tunisia,TUN,2004,74.297
+Vanuatu,VUT,2004,78.4
+Yemen,YEM,2004,54.1
+Bermuda,BMU,2005,98.0
+Turkmenistan,TKM,2005,99.4
+Virgin Islands,0,2005,90.0
+New Caledonia,NCL,2006,97.3
+East Timor,TLS,2007,50.6
+Kosovo,OWID_KOS,2007,91.9
+Mongolia,MNG,2010,98.257
+Oman,OMN,2010,86.939
+Papua New Guinea,PNG,2010,61.6
+Tajikistan,TJK,2010,99.7
+World,OWID_WRL,2010,84.16
+Andorra,AND,2011,100.0
+Austria,AUT,2011,98.0
+Bahrain,BHR,2011,92.3
+Cook Islands,COK,2011,95.0
+Czechia,CZE,2011,99.0
+Gibraltar,GIB,2011,80.0
+Liechtenstein,LIE,2011,100.0
+Niue,NIU,2011,95.0
+Norway,NOR,2011,100.0
+San Marino,SMR,2011,96.0
+Solomon Islands,SLB,2011,84.1
+Vatican,VAT,2011,100.0
+Iraq,IRQ,2012,77.2
+North Macedonia,MKD,2012,97.6
+Philippines,PHL,2013,96.398
+Antigua and Barbuda,ATG,2014,98.95
+Iraq,IRQ,2014,82.2
+Syria,SYR,2014,86.3
+Vanuatu,VUT,2014,84.7
+Mozambique,MOZ,2015,56.039
+Iraq,IRQ,2016,83.3
+Iraq,IRQ,2017,85.6
+Oman,OMN,2017,95.576
+Puerto Rico,PRI,2017,92.39
+South Korea,KOR,2018,98.8
+Belarus,BLR,2019,99.874
+Kyrgyzstan,KGZ,2019,99.6
+Lebanon,LBN,2019,95.3
+Middle East and North Africa (WB),0,2019,79.341
+Aruba,ABW,2020,97.99
+Cameroon,CMR,2020,78.23
+Central African Republic,CAF,2020,37.49
+China,CHN,2020,97.15
+East Timor,TLS,2020,69.9
+Eswatini,SWZ,2020,89.28
+Ghana,GHA,2020,80.38
+Kazakhstan,KAZ,2020,99.8
+Seychelles,SYC,2020,96.2
+Zambia,ZMB,2020,87.5
+Brunei,BRN,2021,97.59
+Bulgaria,BGR,2021,98.42
+Congo,COG,2021,80.61
+Costa Rica,CRI,2021,98.04
+Croatia,HRV,2021,99.45
+Cyprus,CYP,2021,99.36
+Estonia,EST,2021,99.87
+Guinea,GIN,2021,45.33
+Hungary,HUN,2021,99.1
+Jordan,JOR,2021,98.42
+Latvia,LVA,2021,99.89
+Lithuania,LTU,2021,99.83
+Macao,MAC,2021,97.11
+Maldives,MDV,2021,97.86
+Malta,MLT,2021,94.94
+Mauritania,MRT,2021,66.96
+Mauritius,MUS,2021,92.15
+Moldova,MDA,2021,99.6
+Montenegro,MNE,2021,98.98
+Namibia,NAM,2021,92.25
+Nepal,NPL,2021,71.15
+Poland,POL,2021,99.8
+Portugal,PRT,2021,96.78
+Puerto Rico,PRI,2021,92.4
+Romania,ROU,2021,98.9
+Rwanda,RWA,2021,75.9
+Samoa,WSM,2021,99.1
+Suriname,SUR,2021,95.0
+Thailand,THA,2021,94.1
+Tonga,TON,2021,99.4
+Ukraine,UKR,2021,100.0
+Vanuatu,VUT,2021,89.1
+Albania,ALB,2022,98.5
+Angola,AGO,2022,72.4
+Benin,BEN,2022,47.1
+Bhutan,BTN,2022,72.1
+Bosnia and Herzegovina,BIH,2022,98.3
+Brazil,BRA,2022,94.69
+Burkina Faso,BFA,2022,34.49
+Burundi,BDI,2022,75.54
+Cambodia,KHM,2022,83.78
+Cape Verde,CPV,2022,91.0
+Chad,TCD,2022,27.28
+Chile,CHL,2022,97.16
+Comoros,COM,2022,61.71
+Democratic Republic of Congo,COD,2022,80.54
+Dominican Republic,DOM,2022,95.5
+Egypt,EGY,2022,74.5
+Gabon,GAB,2022,85.69
+Gambia,GMB,2022,58.67
+Guatemala,GTM,2022,84.27
+Guinea-Bissau,GNB,2022,53.9
+Guyana,GUY,2022,90.03
+Iran,IRN,2022,88.96
+Kenya,KEN,2022,82.88
+Laos,LAO,2022,87.52
+Lesotho,LSO,2022,82.01
+Madagascar,MDG,2022,77.48
+Malawi,MWI,2022,68.08
+Morocco,MAR,2022,77.35
+Niger,NER,2022,38.1
+Sao Tome and Principe,STP,2022,93.75
+Senegal,SEN,2022,57.67
+Sierra Leone,SLE,2022,48.64
+Somalia,SOM,2022,41.025
+Tanzania,TZA,2022,82.02
+Tunisia,TUN,2022,83.56
+Uganda,UGA,2022,80.59
+Venezuela,VEN,2022,97.6
+Zimbabwe,ZWE,2022,89.85

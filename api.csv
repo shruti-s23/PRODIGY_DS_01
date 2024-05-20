@@ -1,0 +1,2317 @@
+Entity,Code,Year,Historical and more recent literacy estimates
+Belgium,BEL,1475,10
+France,FRA,1475,6
+Germany,DEU,1475,9
+Ireland,IRL,1475,0
+Italy,ITA,1475,15
+Netherlands,NLD,1475,17
+Poland,POL,1475,0
+Spain,ESP,1475,3
+Sweden,SWE,1475,1
+United Kingdom,GBR,1475,5
+Belgium,BEL,1550,17
+France,FRA,1550,19
+Germany,DEU,1550,16
+Ireland,IRL,1550,0
+Italy,ITA,1550,18
+Netherlands,NLD,1550,12
+Poland,POL,1550,0
+Spain,ESP,1550,4
+Sweden,SWE,1550,1
+United Kingdom,GBR,1550,16
+Belgium,BEL,1650,25
+France,FRA,1650,29
+Germany,DEU,1650,31
+Ireland,IRL,1650,3
+Italy,ITA,1650,23
+Netherlands,NLD,1650,53
+Poland,POL,1650,3
+Spain,ESP,1650,5
+Sweden,SWE,1650,23
+United Kingdom,GBR,1650,53
+Belgium,BEL,1750,13
+France,FRA,1750,29
+Germany,DEU,1750,38
+Ireland,IRL,1750,21
+Italy,ITA,1750,23
+Netherlands,NLD,1750,85
+Poland,POL,1750,5
+Spain,ESP,1750,8
+Sweden,SWE,1750,48
+United Kingdom,GBR,1750,54
+France,FRA,1820,38
+Italy,ITA,1820,22
+Russia,RUS,1820,8
+Spain,ESP,1820,20
+Sweden,SWE,1820,75
+United Kingdom,GBR,1820,53
+World,OWID_WRL,1820,12
+France,FRA,1870,69
+Italy,ITA,1870,32
+Russia,RUS,1870,15
+Spain,ESP,1870,30
+Sweden,SWE,1870,80
+United Kingdom,GBR,1870,76
+United States,USA,1870,80
+World,OWID_WRL,1870,19
+United States,USA,1880,83
+World,OWID_WRL,1880,20
+United States,USA,1890,86.7
+World,OWID_WRL,1890,21
+Argentina,ARG,1900,51.3
+Bolivia,BOL,1900,18
+Brazil,BRA,1900,35
+Chile,CHL,1900,43
+Colombia,COL,1900,34
+Costa Rica,CRI,1900,36
+Cuba,CUB,1900,46
+Ecuador,ECU,1900,33
+El Salvador,SLV,1900,26
+Guatemala,GTM,1900,12
+Haiti,HTI,1900,8
+Honduras,HND,1900,28
+Mexico,MEX,1900,24
+Panama,PAN,1900,17
+Paraguay,PRY,1900,31
+Peru,PER,1900,24
+United States,USA,1900,89.3
+Uruguay,URY,1900,59
+Venezuela,VEN,1900,28
+World,OWID_WRL,1900,21
+Argentina,ARG,1910,60.4
+Bolivia,BOL,1910,20
+Brazil,BRA,1910,35
+Chile,CHL,1910,53
+Colombia,COL,1910,39
+Costa Rica,CRI,1910,46
+Cuba,CUB,1910,57
+Ecuador,ECU,1910,38
+El Salvador,SLV,1910,27
+Guatemala,GTM,1910,13
+Haiti,HTI,1910,8
+Honduras,HND,1910,30
+Mexico,MEX,1910,30
+Panama,PAN,1910,27
+Paraguay,PRY,1910,38
+Peru,PER,1910,29
+United States,USA,1910,92.3
+Uruguay,URY,1910,65
+Venezuela,VEN,1910,29
+World,OWID_WRL,1910,26
+Argentina,ARG,1920,68.2
+Bolivia,BOL,1920,22
+Brazil,BRA,1920,35
+Chile,CHL,1920,63
+Colombia,COL,1920,44
+Costa Rica,CRI,1920,57
+Cuba,CUB,1920,64
+Dominican Republic,DOM,1920,29
+Ecuador,ECU,1920,42
+El Salvador,SLV,1920,27
+Guatemala,GTM,1920,15
+Haiti,HTI,1920,8
+Honduras,HND,1920,32
+Mexico,MEX,1920,35
+Nicaragua,NIC,1920,39
+Panama,PAN,1920,42
+Paraguay,PRY,1920,45
+Peru,PER,1920,33
+United States,USA,1920,94
+Uruguay,URY,1920,70
+Venezuela,VEN,1920,32
+World,OWID_WRL,1920,32
+Argentina,ARG,1930,74.9
+Bolivia,BOL,1930,25
+Brazil,BRA,1930,39
+Chile,CHL,1930,75
+Colombia,COL,1930,52
+Costa Rica,CRI,1930,67
+Cuba,CUB,1930,71
+Dominican Republic,DOM,1930,26
+Ecuador,ECU,1930,46
+El Salvador,SLV,1930,28
+Guatemala,GTM,1930,19
+Haiti,HTI,1930,8
+Honduras,HND,1930,33
+Mexico,MEX,1930,36
+Nicaragua,NIC,1930,39
+Panama,PAN,1930,46
+Paraguay,PRY,1930,52
+Peru,PER,1930,37
+United States,USA,1930,95.7
+Uruguay,URY,1930,76
+Venezuela,VEN,1930,36
+World,OWID_WRL,1930,33
+Argentina,ARG,1940,81.7
+Bolivia,BOL,1940,28
+Brazil,BRA,1940,44
+Chile,CHL,1940,73
+Colombia,COL,1940,57
+Costa Rica,CRI,1940,73
+Cuba,CUB,1940,76
+Dominican Republic,DOM,1940,30
+Ecuador,ECU,1940,51
+El Salvador,SLV,1940,35
+Guatemala,GTM,1940,24
+Haiti,HTI,1940,9
+Honduras,HND,1940,35
+Mexico,MEX,1940,46
+Nicaragua,NIC,1940,38
+Panama,PAN,1940,58
+Paraguay,PRY,1940,59
+Peru,PER,1940,42
+United States,USA,1940,97.1
+Uruguay,URY,1940,81
+Venezuela,VEN,1940,42
+World,OWID_WRL,1940,42
+United States,USA,1947,97.3
+Argentina,ARG,1950,87.6
+Bolivia,BOL,1950,32
+Brazil,BRA,1950,49
+Chile,CHL,1950,79
+Colombia,COL,1950,62
+Costa Rica,CRI,1950,79
+Cuba,CUB,1950,78
+Dominican Republic,DOM,1950,43
+Ecuador,ECU,1950,56
+El Salvador,SLV,1950,42
+Guatemala,GTM,1950,29
+Haiti,HTI,1950,11
+Honduras,HND,1950,40
+Mexico,MEX,1950,60
+Nicaragua,NIC,1950,38
+Panama,PAN,1950,67
+Paraguay,PRY,1950,66
+Peru,PER,1950,51
+United States,USA,1950,96.8
+Uruguay,URY,1950,86
+Venezuela,VEN,1950,51
+World,OWID_WRL,1950,36
+United States,USA,1952,97.5
+United States,USA,1959,97.8
+Argentina,ARG,1960,91.4
+Bolivia,BOL,1960,44
+Brazil,BRA,1960,60
+Chile,CHL,1960,84
+Colombia,COL,1960,70
+Costa Rica,CRI,1960,83
+Cuba,CUB,1960,79
+Dominican Republic,DOM,1960,64
+Ecuador,ECU,1960,65
+El Salvador,SLV,1960,48
+Guatemala,GTM,1960,35
+Haiti,HTI,1960,16
+Honduras,HND,1960,44
+Mexico,MEX,1960,65
+Nicaragua,NIC,1960,47
+Panama,PAN,1960,73
+Paraguay,PRY,1960,73
+Peru,PER,1960,60
+Uruguay,URY,1960,89
+Venezuela,VEN,1960,62
+World,OWID_WRL,1960,42
+United States,USA,1969,99
+Wallis and Futuna,WLF,1969,50
+Argentina,ARG,1970,93
+Barbados,BRB,1970,9.926.808
+Bolivia,BOL,1970,58
+Brazil,BRA,1970,68
+Chile,CHL,1970,88
+Colombia,COL,1970,78
+Costa Rica,CRI,1970,88
+Cuba,CUB,1970,89
+Dominican Republic,DOM,1970,67
+Ecuador,ECU,1970,74
+El Salvador,SLV,1970,58
+Grenada,GRD,1970,9.779.447
+Guatemala,GTM,1970,45
+Haiti,HTI,1970,22
+Honduras,HND,1970,53
+Mexico,MEX,1970,75
+Montserrat,MSR,1970,97
+Nicaragua,NIC,1970,57
+Panama,PAN,1970,79
+Paraguay,PRY,1970,80
+Peru,PER,1970,72
+Saint Vincent and the Grenadines,VCT,1970,9.563.216
+Turks and Caicos Islands,TCA,1970,98
+Uruguay,URY,1970,93
+Venezuela,VEN,1970,76
+Bolivia,BOL,1971,59
+Colombia,COL,1971,79
+Costa Rica,CRI,1971,89
+Cuba,CUB,1971,90
+Dominican Republic,DOM,1971,68
+Ecuador,ECU,1971,75
+El Salvador,SLV,1971,59
+Guatemala,GTM,1971,46
+Haiti,HTI,1971,23
+Honduras,HND,1971,54
+Nicaragua,NIC,1971,57
+Panama,PAN,1971,80
+Paraguay,PRY,1971,80
+Uruguay,URY,1971,93
+Venezuela,VEN,1971,77
+Bolivia,BOL,1972,60
+Colombia,COL,1972,79
+Costa Rica,CRI,1972,89
+Cuba,CUB,1972,90
+Dominican Republic,DOM,1972,68
+Ecuador,ECU,1972,76
+El Salvador,SLV,1972,60
+Guatemala,GTM,1972,47
+Haiti,HTI,1972,24
+Honduras,HND,1972,55
+Nicaragua,NIC,1972,58
+Panama,PAN,1972,80
+Paraguay,PRY,1972,81
+Somalia,SOM,1972,540.465
+Uruguay,URY,1972,93
+Venezuela,VEN,1972,78
+Bolivia,BOL,1973,61
+Colombia,COL,1973,80
+Costa Rica,CRI,1973,89
+Cuba,CUB,1973,90
+Dominican Republic,DOM,1973,69
+Ecuador,ECU,1973,77
+El Salvador,SLV,1973,61
+Guatemala,GTM,1973,48
+Haiti,HTI,1973,25
+Honduras,HND,1973,56
+Nicaragua,NIC,1973,58
+Panama,PAN,1973,81
+Paraguay,PRY,1973,82
+Uruguay,URY,1973,93
+Venezuela,VEN,1973,79
+Bolivia,BOL,1974,62
+Colombia,COL,1974,81
+Costa Rica,CRI,1974,90
+Cuba,CUB,1974,91
+Dominican Republic,DOM,1974,70
+Ecuador,ECU,1974,77
+El Salvador,SLV,1974,61
+Guatemala,GTM,1974,48
+Haiti,HTI,1974,25
+Honduras,HND,1974,57
+Latin America and Caribbean (WB),0,1974,7.871.795
+Middle East and North Africa (WB),0,1974,4.399.972
+Nicaragua,NIC,1974,59
+Panama,PAN,1974,81
+Paraguay,PRY,1974,82
+Uruguay,URY,1974,94
+Venezuela,VEN,1974,80
+Bolivia,BOL,1975,63
+Burkina Faso,BFA,1975,883.023
+Central African Republic,CAF,1975,1.823.617
+Colombia,COL,1975,81
+Costa Rica,CRI,1975,90
+Cuba,CUB,1975,91
+Dominican Republic,DOM,1975,70
+Ecuador,ECU,1975,78
+El Salvador,SLV,1975,62
+Guatemala,GTM,1975,49
+Haiti,HTI,1975,26
+Honduras,HND,1975,58
+Kuwait,KWT,1975,5.956.439
+Latin America and Caribbean (WB),0,1975,7.873.679
+Lower-middle-income countries,0,1975,4.608.655
+Middle East and North Africa (WB),0,1975,4.448.717
+Nicaragua,NIC,1975,59
+Panama,PAN,1975,82
+Paraguay,PRY,1975,83
+South Asia (WB),0,1975,3.603.934
+Turkey,TUR,1975,6.162.768
+United Arab Emirates,ARE,1975,5.351.488
+Uruguay,URY,1975,9.386.107
+Venezuela,VEN,1975,80
+Bolivia,BOL,1976,6.320.815
+Cameroon,CMR,1976,4.121.621
+Colombia,COL,1976,82
+Costa Rica,CRI,1976,90
+Cuba,CUB,1976,91
+Dominican Republic,DOM,1976,71
+East Asia and the Pacific (WB),0,1976,65.691
+Ecuador,ECU,1976,79
+Egypt,EGY,1976,3.819.676
+Eswatini,SWZ,1976,5.532.504
+Guatemala,GTM,1976,50
+Haiti,HTI,1976,27
+Honduras,HND,1976,58
+Iran,IRN,1976,365.184
+Latin America and Caribbean (WB),0,1976,7.908.727
+Lower-middle-income countries,0,1976,4.621.935
+Mali,MLI,1976,943.381
+Middle East and North Africa (WB),0,1976,4.501.565
+New Caledonia,NCL,1976,9.130.037
+Nicaragua,NIC,1976,59
+Panama,PAN,1976,83
+Paraguay,PRY,1976,84
+South Asia (WB),0,1976,3.604.425
+Tonga,TON,1976,9.959.246
+Upper-middle-income countries,0,1976,6.874.029
+Venezuela,VEN,1976,81
+World,OWID_WRL,1976,6.558.655
+Colombia,COL,1977,82
+Costa Rica,CRI,1977,91
+Cuba,CUB,1977,92
+Dominican Republic,DOM,1977,72
+East Asia and the Pacific (WB),0,1977,6.587.666
+Ecuador,ECU,1977,80
+French Polynesia,PYF,1977,98
+Guatemala,GTM,1977,51
+Haiti,HTI,1977,28
+Honduras,HND,1977,59
+Latin America and Caribbean (WB),0,1977,7.948.948
+Lower-middle-income countries,0,1977,4.674.835
+Maldives,MDV,1977,8.229.996
+Middle East and North Africa (WB),0,1977,4.555.852
+Nicaragua,NIC,1977,60
+Panama,PAN,1977,83
+Paraguay,PRY,1977,84
+South Asia (WB),0,1977,366.957
+Upper-middle-income countries,0,1977,6.893.139
+Venezuela,VEN,1977,82
+World,OWID_WRL,1977,6.587.833
+Arab World (WB),0,1978,4.647.531
+Colombia,COL,1978,83
+Costa Rica,CRI,1978,91
+Cuba,CUB,1978,92
+Dominican Republic,DOM,1978,73
+East Asia and the Pacific (WB),0,1978,6.696.806
+Ecuador,ECU,1978,80
+Guatemala,GTM,1978,52
+Haiti,HTI,1978,29
+Honduras,HND,1978,60
+Latin America and Caribbean (WB),0,1978,7.992.699
+Lower-middle-income countries,0,1978,4.729.462
+Middle East and North Africa (WB),0,1978,4.621.684
+Nicaragua,NIC,1978,60
+Panama,PAN,1978,84
+Paraguay,PRY,1978,85
+Poland,POL,1978,9.874.274
+Rwanda,RWA,1978,3.824.343
+South Asia (WB),0,1978,3.734.392
+Upper-middle-income countries,0,1978,6.990.414
+Venezuela,VEN,1978,83
+World,OWID_WRL,1978,6.650.104
+Afghanistan,AFG,1979,1.815.768
+Arab World (WB),0,1979,4.694.826
+Argentina,ARG,1979,94.2
+Benin,BEN,1979,1.648.273
+Brazil,BRA,1979,75
+Burundi,BDI,1979,2.250.855
+Chile,CHL,1979,91
+Colombia,COL,1979,84
+Costa Rica,CRI,1979,91
+Cuba,CUB,1979,92
+Dominican Republic,DOM,1979,73
+East Asia and the Pacific (WB),0,1979,6.818.393
+Ecuador,ECU,1979,81
+Guatemala,GTM,1979,52
+Guinea-Bissau,GNB,1979,1.995.825
+Haiti,HTI,1979,30
+Honduras,HND,1979,61
+Jordan,JOR,1979,6.679.681
+Latin America and Caribbean (WB),0,1979,8.032.272
+Lower-middle-income countries,0,1979,4.781.219
+Mexico,MEX,1979,82
+Middle East and North Africa (WB),0,1979,4.688.817
+Nicaragua,NIC,1979,61
+Panama,PAN,1979,84
+Paraguay,PRY,1979,85
+Peru,PER,1979,79
+South Asia (WB),0,1979,3.798.005
+United States,USA,1979,99.4
+Upper-middle-income countries,0,1979,7.097.245
+Vanuatu,VUT,1979,5.287.392
+Venezuela,VEN,1979,83
+Vietnam,VNM,1979,8.382.594
+World,OWID_WRL,1979,6.715.501
+American Samoa,ASM,1980,9.734.416
+Arab World (WB),0,1980,4.753.087
+Argentina,ARG,1980,9.391.286
+Barbados,BRB,1980,99.5
+Brazil,BRA,1980,7.458.673
+Chile,CHL,1980,92
+Colombia,COL,1980,84
+Comoros,COM,1980,4.791.923
+Costa Rica,CRI,1980,92
+Cuba,CUB,1980,93
+Dominican Republic,DOM,1980,74
+East Asia and the Pacific (WB),0,1980,6.876.246
+Ecuador,ECU,1980,82
+Grenada,GRD,1980,98.4
+Guam,GUM,1980,9.642.065
+Haiti,HTI,1980,31
+Honduras,HND,1980,61
+Hungary,HUN,1980,9.885.829
+Indonesia,IDN,1980,6.731.267
+Kuwait,KWT,1980,6.751.766
+Latin America and Caribbean (WB),0,1980,8.063.629
+Lower-middle-income countries,0,1980,4.836.388
+Malaysia,MYS,1980,6.951.633
+Mexico,MEX,1980,8.298.924
+Micronesia,0,1980,89
+Middle East and North Africa (WB),0,1980,4.765.529
+Mozambique,MOZ,1980,2.699.771
+Nicaragua,NIC,1980,61
+Northern Mariana Islands,MNP,1980,97
+Palau,PLW,1980,9.192.142
+Panama,PAN,1980,8.807.174
+Paraguay,PRY,1980,86
+Peru,PER,1980,79
+Philippines,PHL,1980,8.331.723
+Puerto Rico,PRI,1980,8.674.606
+Saint Vincent and the Grenadines,VCT,1980,96.9
+Singapore,SGP,1980,8.290.605
+South Africa,ZAF,1980,7.620.049
+South Asia (WB),0,1980,385.959
+Thailand,THA,1980,8.798.176
+Trinidad and Tobago,TTO,1980,9.497.032
+Turkey,TUR,1980,6.569.434
+Upper-middle-income countries,0,1980,7.150.332
+Venezuela,VEN,1980,84
+World,OWID_WRL,1980,6.758.338
+Arab World (WB),0,1981,4.811.101
+Bahrain,BHR,1981,6.975.351
+Bangladesh,BGD,1981,2.922.723
+Brunei,BRN,1981,777.355
+Colombia,COL,1981,85
+Costa Rica,CRI,1981,92
+Cuba,CUB,1981,9.784.665
+Dominican Republic,DOM,1981,7.306.457
+East Asia and the Pacific (WB),0,1981,7.037.613
+Ecuador,ECU,1981,82
+Greece,GRC,1981,9.051.232
+Haiti,HTI,1981,31
+Honduras,HND,1981,62
+India,IND,1981,4.076.359
+Italy,ITA,1981,9.646.054
+Latin America and Caribbean (WB),0,1981,8.106.476
+Lower-middle-income countries,0,1981,4.855.208
+Macao,MAC,1981,9.037.818
+Middle East and North Africa (WB),0,1981,4.842.226
+Montenegro,MNE,1981,896.353
+Nepal,NPL,1981,2.057.367
+Nicaragua,NIC,1981,61
+Pakistan,PAK,1981,2.572.519
+Paraguay,PRY,1981,86
+Peru,PER,1981,8.191.846
+Portugal,PRT,1981,7.943.561
+Sao Tome and Principe,STP,1981,5.732.426
+South Asia (WB),0,1981,3.863.157
+Spain,ESP,1981,9.280.977
+Sri Lanka,LKA,1981,8.677.792
+Syria,SYR,1981,556.545
+Upper-middle-income countries,0,1981,7.287.539
+Venezuela,VEN,1981,847.322
+World,OWID_WRL,1981,6.829.191
+Arab World (WB),0,1982,4.867.683
+Central Europe and the Baltics (WB),0,1982,9.797.562
+Chile,CHL,1982,911.284
+China,CHN,1982,6.550.509
+Costa Rica,CRI,1982,92
+East Asia and the Pacific (WB),0,1982,7.096.971
+Ecuador,ECU,1982,8.355.269
+Haiti,HTI,1982,3.473.469
+Honduras,HND,1982,63
+Latin America and Caribbean (WB),0,1982,8.144.642
+Lower-middle-income countries,0,1982,4.945.058
+Middle East and North Africa (WB),0,1982,4.924.596
+Morocco,MAR,1982,302.578
+Nicaragua,NIC,1982,62
+Paraguay,PRY,1982,7.845.861
+Saint Pierre and Miquelon,SPM,1982,99
+South Asia (WB),0,1982,3.982.555
+Upper-middle-income countries,0,1982,734.479
+World,OWID_WRL,1982,6.884.949
+Zimbabwe,ZWE,1982,7.779.417
+Arab World (WB),0,1983,4.889.918
+Central Europe and the Baltics (WB),0,1983,97.999
+Costa Rica,CRI,1983,92
+East Asia and the Pacific (WB),0,1983,7.224.865
+Honduras,HND,1983,64
+Israel,ISR,1983,9.175.141
+Latin America and Caribbean (WB),0,1983,8.184.256
+Lower-middle-income countries,0,1983,5.002.004
+Middle East and North Africa (WB),0,1983,5.003.418
+Myanmar,MMR,1983,7.857.041
+Nicaragua,NIC,1983,62
+South Asia (WB),0,1983,4.047.922
+Upper-middle-income countries,0,1983,745.785
+World,OWID_WRL,1983,695.504
+Anguilla,AIA,1984,95
+Arab World (WB),0,1984,4.961.644
+Central Europe and the Baltics (WB),0,1984,9.803.503
+Congo,COG,1984,5.961.912
+Costa Rica,CRI,1984,9.262.904
+East Asia and the Pacific (WB),0,1984,7.323.173
+Honduras,HND,1984,64
+Latin America and Caribbean (WB),0,1984,822.144
+Liberia,LBR,1984,3.210.677
+Libya,LBY,1984,6.016.439
+Lower-middle-income countries,0,1984,5.062.377
+Middle East and North Africa (WB),0,1984,5.090.994
+Nicaragua,NIC,1984,63
+South Asia (WB),0,1984,411.337
+Tunisia,TUN,1984,481.907
+Upper-middle-income countries,0,1984,7.558.398
+Vanuatu,VUT,1984,58.2
+World,OWID_WRL,1984,7.020.852
+Arab World (WB),0,1985,5.050.422
+Central Europe and the Baltics (WB),0,1985,9.806.434
+East Asia and the Pacific (WB),0,1985,7.416.798
+Honduras,HND,1985,65
+Kuwait,KWT,1985,7.449.087
+Latin America and Caribbean (WB),0,1985,825.733
+Lower-middle-income countries,0,1985,5.123.839
+Maldives,MDV,1985,9.223.005
+Malta,MLT,1985,8.692.984
+Middle East and North Africa (WB),0,1985,5.193.806
+Nicaragua,NIC,1985,63
+South Asia (WB),0,1985,4.178.566
+Sub-Saharan Africa (WB),0,1985,4.967.415
+Turkey,TUR,1985,7.596.824
+United Arab Emirates,ARE,1985,712.353
+Upper-middle-income countries,0,1985,7.643.733
+Uruguay,URY,1985,9.537.998
+Western and Central Africa (WB),0,1985,4.029.465
+World,OWID_WRL,1985,708.034
+Arab World (WB),0,1986,5.130.673
+Central Europe and the Baltics (WB),0,1986,9.809.401
+East Asia and the Pacific (WB),0,1986,7.500.072
+Egypt,EGY,1986,4.442.399
+Eswatini,SWZ,1986,6.723.938
+Honduras,HND,1986,66
+Iran,IRN,1986,5.231.976
+Latin America and Caribbean (WB),0,1986,8.292.528
+Lower-middle-income countries,0,1986,5.176.948
+Middle East and North Africa (WB),0,1986,5.289.378
+Nicaragua,NIC,1986,63
+Qatar,QAT,1986,7.563.504
+South Asia (WB),0,1986,4.244.037
+Sub-Saharan Africa (WB),0,1986,4.999.364
+Upper-middle-income countries,0,1986,7.726.837
+Western and Central Africa (WB),0,1986,4.055.083
+World,OWID_WRL,1986,7.135.792
+Algeria,DZA,1987,4.963.088
+Arab World (WB),0,1987,5.198.211
+Central Europe and the Baltics (WB),0,1987,9.812.998
+East Asia and the Pacific (WB),0,1987,7.617.425
+Honduras,HND,1987,66
+Latin America and Caribbean (WB),0,1987,8.321.761
+Lower-middle-income countries,0,1987,5.262.234
+Malawi,MWI,1987,4.853.665
+Middle East and North Africa (WB),0,1987,5.372.572
+Nicaragua,NIC,1987,64
+Saint Helena,SHN,1987,97
+Seychelles,SYC,1987,8.422.922
+South Asia (WB),0,1987,4.309.805
+Southern and Eastern Africa (WB),0,1987,5.685.891
+Sub-Saharan Africa (WB),0,1987,5.062.375
+Upper-middle-income countries,0,1987,7.811.403
+Western and Central Africa (WB),0,1987,4.129.927
+World,OWID_WRL,1987,7.204.868
+Arab World (WB),0,1988,5.297.973
+Central African Republic,CAF,1988,3.362.442
+Central Europe and the Baltics (WB),0,1988,9.821.289
+Cote d'Ivoire,CIV,1988,3.413.928
+East Asia and the Pacific (WB),0,1988,7.995.977
+Honduras,HND,1988,67
+Latin America and Caribbean (WB),0,1988,8.370.771
+Low-income countries,0,1988,4.646.776
+Lower-middle-income countries,0,1988,5.331.907
+Middle East and North Africa (WB),0,1988,5.484.007
+Nicaragua,NIC,1988,64
+Poland,POL,1988,99.3
+Senegal,SEN,1988,2.686.885
+South Asia (WB),0,1988,4.384.537
+Southern and Eastern Africa (WB),0,1988,5.716.619
+Sub-Saharan Africa (WB),0,1988,5.110.168
+Tanzania,TZA,1988,591.138
+Upper-middle-income countries,0,1988,8.140.846
+Western and Central Africa (WB),0,1988,4.203.242
+World,OWID_WRL,1988,7.377.016
+Arab World (WB),0,1989,5.385.493
+Armenia,ARM,1989,9.875.196
+Belarus,BLR,1989,9.788.337
+Central Europe and the Baltics (WB),0,1989,9.827.741
+East Asia and the Pacific (WB),0,1989,8.060.751
+Estonia,EST,1989,9.972.644
+Honduras,HND,1989,68
+Kazakhstan,KAZ,1989,9.752.938
+Latin America and Caribbean (WB),0,1989,8.414.951
+Latvia,LVA,1989,994.523
+Lithuania,LTU,1989,9.844.127
+Low-income countries,0,1989,4.691.318
+Lower-middle-income countries,0,1989,5.404.309
+Middle East and North Africa (WB),0,1989,5.584.551
+Moldova,MDA,1989,9.637.755
+New Caledonia,NCL,1989,9.308.063
+Nicaragua,NIC,1989,64
+Russia,RUS,1989,9.798.605
+South Asia (WB),0,1989,4.461.243
+Southern and Eastern Africa (WB),0,1989,5.761.875
+Sub-Saharan Africa (WB),0,1989,5.169.056
+Tajikistan,TJK,1989,9.769.402
+Upper-middle-income countries,0,1989,8.200.051
+Vietnam,VNM,1989,8.759.645
+Western and Central Africa (WB),0,1989,4.282.516
+World,OWID_WRL,1989,7.430.384
+Arab World,0,1990,5.459.347
+Arab World (WB),0,1990,5.479.577
+Burundi,BDI,1990,3.738.472
+Cape Verde,CPV,1990,6.279.686
+Central Europe and the Baltics,0,1990,9.859.496
+Central Europe and the Baltics (WB),0,1990,9.834.538
+China,CHN,1990,7.778.506
+Early-demographic dividend,0,1990,59.518.055
+East Asia & Pacific,0,1990,82.054.344
+East Asia & Pacific (IDA & IBRD),0,1990,79.458.626
+East Asia & Pacific (excluding high income),0,1990,797.442
+East Asia and the Pacific (WB),0,1990,8.046.115
+Ecuador,ECU,1990,8.829.876
+Europe & Central Asia,0,1990,9.726.079
+Europe & Central Asia (IDA & IBRD),0,1990,959.422
+Europe & Central Asia (excluding high income),0,1990,9.556.776
+Guam,GUM,1990,9.936.915
+Heavily indebted poor countries (HIPC),0,1990,45.420.242
+Hungary,HUN,1990,99.1
+IBRD only,0,1990,7.364.205
+IDA & IBRD total,0,1990,698.612
+IDA blend,0,1990,63.288.082
+IDA only,0,1990,4.829.747
+IDA total,0,1990,541.447
+Indonesia,IDN,1990,8.151.985
+Late-demographic dividend,0,1990,8.247.946
+Latin America & Caribbean,0,1990,8.746.383
+Latin America & Caribbean (IDA & IBRD),0,1990,8.706.507
+Latin America & Caribbean (excluding high income),0,1990,8.710.164
+Latin America and Caribbean (WB),0,1990,8.446.313
+Least developed countries: UN classification,0,1990,45.830.433
+Low income,0,1990,4.602.458
+Low-income countries,0,1990,4.739.702
+Lower middle income,0,1990,5.859.612
+Lower-middle-income countries,0,1990,5.491.134
+Maldives,MDV,1990,9.601.826
+Mauritius,MUS,1990,7.986.866
+Mexico,MEX,1990,8.755.615
+Middle East & North Africa,0,1990,58.496.243
+Middle East & North Africa (IDA & IBRD),0,1990,5.575.025
+Middle East & North Africa (excluding high income),0,1990,5.603.943
+Middle East and North Africa (WB),0,1990,5.823.571
+Middle income,0,1990,7.137.112
+Nicaragua,NIC,1990,65
+Other small states,0,1990,7.333.838
+Panama,PAN,1990,8.877.986
+Philippines,PHL,1990,935.739
+Pre-demographic dividend,0,1990,51.186.974
+Puerto Rico,PRI,1990,896.225
+Singapore,SGP,1990,89.096
+Small states,0,1990,7.728.492
+South Asia,0,1990,46.487.602
+South Asia (IDA & IBRD),0,1990,46.487.602
+South Asia (WB),0,1990,453.592
+Southern and Eastern Africa (WB),0,1990,5.818.002
+Sub-Saharan Africa (IDA & IBRD),0,1990,5.253.158
+Sub-Saharan Africa (WB),0,1990,523.394
+Trinidad and Tobago,TTO,1990,9.693.855
+Turkey,TUR,1990,7.923.245
+Upper middle income,0,1990,8.191.885
+Upper-middle-income countries,0,1990,8.194.503
+Venezuela,VEN,1990,8.982.525
+Western and Central Africa (WB),0,1990,4.360.494
+World,OWID_WRL,1990,7.460.577
+Zambia,ZMB,1990,6.499.828
+Arab World (WB),0,1991,5.581.391
+Argentina,ARG,1991,9.604.072
+Bahrain,BHR,1991,8.401.383
+Bangladesh,BGD,1991,353.193
+Belize,BLZ,1991,7.029.842
+Bosnia and Herzegovina,BIH,1991,8.906.359
+Botswana,BWA,1991,6.858.091
+British Virgin Islands,VGB,1991,97.8
+Brunei,BRN,1991,8.780.418
+Burkina Faso,BFA,1991,1.356.923
+Central Europe and the Baltics (WB),0,1991,9.840.635
+Croatia,HRV,1991,9.670.155
+East Asia and the Pacific (WB),0,1991,8.170.511
+Greece,GRC,1991,9.261.045
+India,IND,1991,4.822.207
+Iran,IRN,1991,655.314
+Latin America and Caribbean (WB),0,1991,8.506.566
+Low-income countries,0,1991,4.767.013
+Lower-middle-income countries,0,1991,5.546.039
+Malaysia,MYS,1991,8.291.537
+Middle East and North Africa (WB),0,1991,5.951.876
+Montenegro,MNE,1991,9.346.274
+Namibia,NAM,1991,7.581.658
+Nepal,NPL,1991,3.297.559
+Nicaragua,NIC,1991,65
+Nigeria,NGA,1991,5.544.675
+Portugal,PRT,1991,8.794.785
+Rwanda,RWA,1991,5.785.349
+Samoa,WSM,1991,9.794.433
+Sao Tome and Principe,STP,1991,7.324.242
+Slovenia,SVN,1991,9.952.452
+South Asia (WB),0,1991,4.578.956
+Southern and Eastern Africa (WB),0,1991,5.814.119
+Spain,ESP,1991,9.649.497
+Sub-Saharan Africa (WB),0,1991,5.281.162
+Uganda,UGA,1991,5.610.738
+Upper-middle-income countries,0,1991,8.305.663
+Western and Central Africa (WB),0,1991,4.482.332
+World,OWID_WRL,1991,7.519.876
+Arab World (WB),0,1992,5.686.386
+Benin,BEN,1992,2.724.517
+Bolivia,BOL,1992,7.999.177
+Central Europe and the Baltics (WB),0,1992,984.627
+Chile,CHL,1992,9.429.114
+Cyprus,CYP,1992,9.436.247
+East Asia and the Pacific (WB),0,1992,8.222.357
+El Salvador,SLV,1992,7.414.316
+Latin America and Caribbean (WB),0,1992,856.456
+Low-income countries,0,1992,4.786.018
+Lower-middle-income countries,0,1992,5.643.855
+Middle East and North Africa (WB),0,1992,6.049.936
+Nicaragua,NIC,1992,65
+Paraguay,PRY,1992,9.027.182
+Romania,ROU,1992,9.670.998
+Saudi Arabia,SAU,1992,7.082.165
+South Asia (WB),0,1992,4.708.633
+Southern and Eastern Africa (WB),0,1992,5.853.064
+Sub-Saharan Africa (WB),0,1992,5.317.252
+Upper-middle-income countries,0,1992,8.358.292
+Western and Central Africa (WB),0,1992,4.516.338
+World,OWID_WRL,1992,7.564.575
+Zimbabwe,ZWE,1992,8.351.258
+Arab World (WB),0,1993,5.768.294
+Central Europe and the Baltics (WB),0,1993,9.851.395
+Chad,TCD,1993,1.089.465
+Colombia,COL,1993,9.106.309
+East Asia and the Pacific (WB),0,1993,8.268.984
+Gabon,GAB,1993,7.223.367
+Latin America and Caribbean (WB),0,1993,8.624.845
+Low-income countries,0,1993,4.805.545
+Lower-middle-income countries,0,1993,5.725.194
+Middle East and North Africa (WB),0,1993,6.139.244
+Nicaragua,NIC,1993,66
+Peru,PER,1993,8.715.063
+South Asia (WB),0,1993,4.808.146
+Southern and Eastern Africa (WB),0,1993,589.126
+Sub-Saharan Africa (WB),0,1993,5.372.444
+Upper-middle-income countries,0,1993,8.408.188
+Western and Central Africa (WB),0,1993,4.600.217
+World,OWID_WRL,1993,7.605.962
+Arab World (WB),0,1994,5.844.878
+Central Europe and the Baltics (WB),0,1994,9.856.429
+East Asia and the Pacific (WB),0,1994,832.462
+Ethiopia,ETH,1994,2.701.135
+Europe and Central Asia (WB),0,1994,957.228
+Guatemala,GTM,1994,6.421.164
+Hungary,HUN,1994,9.898.207
+Latin America and Caribbean (WB),0,1994,8.682.307
+Liberia,LBR,1994,4.266.605
+Libya,LBY,1994,76.5
+Low-income countries,0,1994,4.847.019
+Lower-middle-income countries,0,1994,5.799.136
+Middle East and North Africa (WB),0,1994,6.219.767
+Morocco,MAR,1994,4.159.411
+Nicaragua,NIC,1994,66
+North Macedonia,MKD,1994,9.405.875
+Palau,PLW,1994,944.333
+Philippines,PHL,1994,9.391.597
+Poland,POL,1994,9.940.237
+Seychelles,SYC,1994,8.781.115
+South Asia (WB),0,1994,4.884.938
+Southern and Eastern Africa (WB),0,1994,5.952.685
+Sub-Saharan Africa (WB),0,1994,544.332
+Tunisia,TUN,1994,5.906.181
+Upper-middle-income countries,0,1994,8.456.281
+Vanuatu,VUT,1994,68.7
+Western and Central Africa (WB),0,1994,4.686.951
+World,OWID_WRL,1994,7.646.277
+Yemen,YEM,1994,37.09
+Arab World (WB),0,1995,5.959.429
+Central Europe and the Baltics (WB),0,1995,9.861.207
+East Asia and the Pacific (WB),0,1995,8.379.772
+Europe and Central Asia (WB),0,1995,9.585.668
+Kuwait,KWT,1995,783.955
+Laos,LAO,1995,6.025.133
+Latin America and Caribbean (WB),0,1995,8.740.622
+Low-income countries,0,1995,4.868.699
+Lower-middle-income countries,0,1995,5.878.256
+Maldives,MDV,1995,963.265
+Malta,MLT,1995,878.687
+Middle East and North Africa (WB),0,1995,6.381.457
+Nicaragua,NIC,1995,67
+South Asia (WB),0,1995,4.964.048
+Southern and Eastern Africa (WB),0,1995,5.992.194
+Sub-Saharan Africa (WB),0,1995,5.472.776
+Turkmenistan,TKM,1995,9.877.832
+Upper-middle-income countries,0,1995,8.504.725
+Western and Central Africa (WB),0,1995,4.701.763
+World,OWID_WRL,1995,7.686.894
+Arab World (WB),0,1996,6.088.104
+Burkina Faso,BFA,1996,1.284.817
+Colombia,COL,1996,9.120.716
+East Asia and the Pacific (WB),0,1996,8.429.004
+Egypt,EGY,1996,55.587
+Europe and Central Asia (WB),0,1996,9.601.994
+Guinea,GIN,1996,2.055.375
+Iran,IRN,1996,7.306.025
+Latin America and Caribbean (WB),0,1996,8.772.445
+Low-income countries,0,1996,4.901.804
+Lower-middle-income countries,0,1996,5.954.242
+Middle East and North Africa (WB),0,1996,6.512.471
+New Caledonia,NCL,1996,9.613.792
+Nicaragua,NIC,1996,67
+South Africa,ZAF,1996,824.021
+South Asia (WB),0,1996,504.492
+Southern and Eastern Africa (WB),0,1996,6.043.493
+Sub-Saharan Africa (WB),0,1996,5.534.565
+Tonga,TON,1996,9.890.537
+Upper-middle-income countries,0,1996,8.550.188
+Uruguay,URY,1996,9.678.181
+Western and Central Africa (WB),0,1996,4.780.645
+World,OWID_WRL,1996,7.725.817
+Arab World (WB),0,1997,6.182.833
+East Asia and the Pacific (WB),0,1997,8.927.749
+Europe and Central Asia (WB),0,1997,9.614.668
+Latin America and Caribbean (WB),0,1997,8.804.447
+Low-income countries,0,1997,4.968.811
+Lower-middle-income countries,0,1997,6.026.108
+Middle East and North Africa (WB),0,1997,6.604.063
+Mozambique,MOZ,1997,3.870.788
+Nicaragua,NIC,1997,67
+Palestine,PSE,1997,8.607.696
+Qatar,QAT,1997,8.326.216
+South Asia (WB),0,1997,5.126.017
+Southern and Eastern Africa (WB),0,1997,6.117.406
+Sub-Saharan Africa (WB),0,1997,5.619.275
+Upper-middle-income countries,0,1997,8.981.379
+Western and Central Africa (WB),0,1997,4.882.888
+World,OWID_WRL,1997,7.924.868
+Arab World (WB),0,1998,6.303.689
+Cambodia,KHM,1998,6.733.503
+Cote d'Ivoire,CIV,1998,3.635.024
+East Asia and the Pacific (WB),0,1998,8.964.008
+Europe and Central Asia (WB),0,1998,962.917
+Latin America and Caribbean (WB),0,1998,8.839.904
+Low-income countries,0,1998,5.038.674
+Lower-middle-income countries,0,1998,6.348.546
+Malawi,MWI,1998,6.413.425
+Mali,MLI,1998,1.904.497
+Middle East and North Africa (WB),0,1998,6.725.558
+Nicaragua,NIC,1998,68
+Pakistan,PAK,1998,4.269.931
+South Asia (WB),0,1998,5.610.294
+Southern and Eastern Africa (WB),0,1998,6.140.871
+Sub-Saharan Africa (WB),0,1998,5.686.825
+Upper-middle-income countries,0,1998,9.020.424
+Western and Central Africa (WB),0,1998,5.017.558
+World,OWID_WRL,1998,8.043.393
+Arab World (WB),0,1999,6.411.116
+Azerbaijan,AZE,1999,987.918
+Belarus,BLR,1999,9.959.073
+East Asia and the Pacific (WB),0,1999,8.996.095
+Europe and Central Asia (WB),0,1999,9.640.454
+Jamaica,JAM,1999,7.992.012
+Kazakhstan,KAZ,1999,9.951.266
+Kyrgyzstan,KGZ,1999,9.870.161
+Latin America and Caribbean (WB),0,1999,8.870.349
+Low-income countries,0,1999,5.095.138
+Lower-middle-income countries,0,1999,6.418.974
+Middle East and North Africa (WB),0,1999,6.835.577
+Nicaragua,NIC,1999,68
+Solomon Islands,SLB,1999,76.6
+South Asia (WB),0,1999,5.687.631
+Southern and Eastern Africa (WB),0,1999,6.225.842
+Sub-Saharan Africa (WB),0,1999,5.772.549
+Upper-middle-income countries,0,1999,905.234
+Vanuatu,VUT,1999,74
+Vietnam,VNM,1999,902.783
+Western and Central Africa (WB),0,1999,5.105.166
+World,OWID_WRL,1999,807.684
+Zambia,ZMB,1999,6.800.179
+Arab World,0,2000,66.006.065
+Arab World (WB),0,2000,648.063
+Aruba,ABW,2000,9.729.125
+Bosnia and Herzegovina,BIH,2000,966.631
+Brazil,BRA,2000,8.636.788
+Burundi,BDI,2000,5.930.362
+Cameroon,CMR,2000,6.840.916
+Cape Verde,CPV,2000,7.611.044
+Caribbean small states,0,2000,881.378
+Central African Republic,CAF,2000,5.064.517
+Central Europe and the Baltics,0,2000,9.896.019
+Chad,TCD,2000,2.565.421
+China,CHN,2000,9.092.021
+Comoros,COM,2000,6.848.923
+Costa Rica,CRI,2000,9.486.819
+Cote d'Ivoire,CIV,2000,4.874.076
+Early-demographic dividend,0,2000,6.911.661
+East Asia & Pacific,0,2000,9.161.869
+East Asia & Pacific (IDA & IBRD),0,2000,90.649.956
+East Asia & Pacific (excluding high income),0,2000,9.077.303
+East Asia and the Pacific (WB),0,2000,9.024.882
+Equatorial Guinea,GNQ,2000,883.083
+Estonia,EST,2000,997.672
+Eswatini,SWZ,2000,816.607
+Europe & Central Asia,0,2000,9.814.584
+Europe & Central Asia (IDA & IBRD),0,2000,97.452.644
+Europe & Central Asia (excluding high income),0,2000,9.721.841
+Europe and Central Asia (WB),0,2000,9.649.407
+Finland,FIN,2000,100
+Fragile and conflict affected situations,0,2000,63.947.193
+Gambia,GMB,2000,3.681.773
+Ghana,GHA,2000,5.789.747
+Guam,GUM,2000,99.56
+Guinea-Bissau,GNB,2000,4.135.777
+Heavily indebted poor countries (HIPC),0,2000,52.221.073
+IBRD only,0,2000,82.563.576
+IDA & IBRD total,0,2000,7.790.584
+IDA only,0,2000,554.478
+IDA total,0,2000,59.467.594
+Iraq,IRQ,2000,740.522
+Kenya,KEN,2000,8.222.908
+Laos,LAO,2000,6.958.312
+Late-demographic dividend,0,2000,91.466.995
+Latin America & Caribbean,0,2000,8.973.644
+Latin America & Caribbean (IDA & IBRD),0,2000,8.947.367
+Latin America & Caribbean (excluding high income),0,2000,8.945.039
+Latin America and Caribbean (WB),0,2000,88.956
+Latvia,LVA,2000,9.974.657
+Least developed countries: UN classification,0,2000,534.134
+Lesotho,LSO,2000,8.625.443
+Low income,0,2000,5.269.497
+Low-income countries,0,2000,5.108.766
+Lower middle income,0,2000,673.316
+Lower-middle-income countries,0,2000,6.436.212
+Luxembourg,LUX,2000,100
+Madagascar,MDG,2000,7.068.617
+Malaysia,MYS,2000,8.868.776
+Maldives,MDV,2000,963.265
+Mauritania,MRT,2000,5.120.768
+Mauritius,MUS,2000,8.430.309
+Mexico,MEX,2000,9.053.562
+Middle East & North Africa,0,2000,7.040.315
+Middle East & North Africa (IDA & IBRD),0,2000,6.776.973
+Middle East & North Africa (excluding high income),0,2000,68.023.575
+Middle East and North Africa (WB),0,2000,6.923.674
+Middle income,0,2000,7.970.074
+Moldova,MDA,2000,966.538
+Mongolia,MNG,2000,9.776.885
+Myanmar,MMR,2000,8.994.176
+Nicaragua,NIC,2000,66
+Other small states,0,2000,78.839.775
+Pacific island small states,0,2000,86.692.055
+Panama,PAN,2000,9.189.962
+Papua New Guinea,PNG,2000,5.734.326
+Philippines,PHL,2000,9.260.006
+Pre-demographic dividend,0,2000,55.785.202
+Rwanda,RWA,2000,648.886
+Saudi Arabia,SAU,2000,7.935.094
+Singapore,SGP,2000,925.494
+Small states,0,2000,8.147.796
+South Asia,0,2000,5.808.542
+South Asia (IDA & IBRD),0,2000,5.808.542
+South Asia (WB),0,2000,5.765.058
+Southern and Eastern Africa (WB),0,2000,6.249.518
+Sub-Saharan Africa,0,2000,56.981.934
+Sub-Saharan Africa (IDA & IBRD),0,2000,56.981.934
+Sub-Saharan Africa (WB),0,2000,5.625.376
+Sub-Saharan Africa (excluding high income),0,2000,56.976.406
+Sudan,SDN,2000,6.134.587
+Tajikistan,TJK,2000,9.945.068
+Thailand,THA,2000,9.264.654
+Togo,TGO,2000,531.776
+Trinidad and Tobago,TTO,2000,97.9
+Upper middle income,0,2000,9.065.731
+Upper-middle-income countries,0,2000,908.407
+Uzbekistan,UZB,2000,9.864.258
+Vietnam,VNM,2000,9.015.613
+Western and Central Africa (WB),0,2000,4.705.716
+World,OWID_WRL,2000,8.087.452
+Albania,ALB,2001,9.871.298
+Angola,AGO,2001,6.740.542
+Antigua and Barbuda,ATG,2001,98.95
+Arab World (WB),0,2001,6.624.235
+Argentina,ARG,2001,9.719.331
+Armenia,ARM,2001,9.940.016
+Bahrain,BHR,2001,8.654.874
+Bangladesh,BGD,2001,474.855
+Belize,BLZ,2001,80.9
+Bolivia,BOL,2001,8.672.367
+Brunei,BRN,2001,9.267.113
+Bulgaria,BGR,2001,9.820.356
+Croatia,HRV,2001,9.814.668
+Cyprus,CYP,2001,9.680.363
+Democratic Republic of Congo,COD,2001,6.717.299
+East Asia and the Pacific (WB),0,2001,9.064.381
+East Timor,TLS,2001,37.6
+Ecuador,ECU,2001,9.098.403
+Europe and Central Asia (WB),0,2001,965.861
+Greece,GRC,2001,9.599.436
+Greenland,GRL,2001,100
+Honduras,HND,2001,8.001.103
+India,IND,2001,6.101.456
+Italy,ITA,2001,9.841.662
+Laos,LAO,2001,6.873.439
+Latin America and Caribbean (WB),0,2001,8.914.797
+Lithuania,LTU,2001,9.964.575
+Low-income countries,0,2001,5.220.483
+Lower-middle-income countries,0,2001,6.492.597
+Macao,MAC,2001,9.129.537
+Middle East and North Africa (WB),0,2001,705.084
+Namibia,NAM,2001,8.494.426
+Nepal,NPL,2001,4.860.897
+Nicaragua,NIC,2001,7.667.713
+Niger,NER,2001,1.437.604
+Saint Lucia,LCA,2001,90.1
+Sao Tome and Principe,STP,2001,8.490.851
+Slovenia,SVN,2001,99.6
+Somalia,SOM,2001,37.8
+South Asia (WB),0,2001,5.809.879
+Southern and Eastern Africa (WB),0,2001,6.341.789
+Sri Lanka,LKA,2001,9.068.275
+Sub-Saharan Africa (WB),0,2001,5.749.454
+Ukraine,UKR,2001,9.943.041
+Upper-middle-income countries,0,2001,9.118.142
+Venezuela,VEN,2001,9.297.983
+Western and Central Africa (WB),0,2001,4.876.261
+World,OWID_WRL,2001,8.120.433
+Algeria,DZA,2002,698.735
+Arab World (WB),0,2002,673.602
+Barbados,BRB,2002,99.7
+Benin,BEN,2002,3.465.785
+Chile,CHL,2002,9.571.662
+Cuba,CUB,2002,9.979.907
+Dominican Republic,DOM,2002,8.699.647
+East Asia and the Pacific (WB),0,2002,9.098.892
+Eritrea,ERI,2002,5.251.395
+Europe and Central Asia (WB),0,2002,9.676.737
+Georgia,GEO,2002,9.965.235
+Guatemala,GTM,2002,6.910.173
+Hong Kong,HKG,2002,93.5
+Iran,IRN,2002,77
+Japan,JPN,2002,99
+Latin America and Caribbean (WB),0,2002,8.929.534
+Low-income countries,0,2002,5.286.006
+Lower-middle-income countries,0,2002,6.569.058
+Mexico,MEX,2002,9.027.465
+Middle East and North Africa (WB),0,2002,7.102.652
+North Macedonia,MKD,2002,9.612.893
+Romania,ROU,2002,9.729.759
+Russia,RUS,2002,9.944.097
+Senegal,SEN,2002,3.927.525
+Seychelles,SYC,2002,9.183.646
+South Asia (WB),0,2002,5.920.313
+Southern and Eastern Africa (WB),0,2002,6.374.941
+Sub-Saharan Africa (WB),0,2002,5.798.504
+Syria,SYR,2002,8.288.825
+Tanzania,TZA,2002,694.309
+Uganda,UGA,2002,6.814.251
+Upper-middle-income countries,0,2002,9.145.816
+Western and Central Africa (WB),0,2002,4.947.245
+World,OWID_WRL,2002,8.157.198
+Zambia,ZMB,2002,6.914.922
+Arab World (WB),0,2003,6.998.903
+Australia,AUS,2003,99
+Bahamas,BHS,2003,95.6
+Belgium,BEL,2003,99
+Botswana,BWA,2003,8.118.871
+Burkina Faso,BFA,2003,2.182.292
+Canada,CAN,2003,99
+Denmark,DNK,2003,99
+Djibouti,DJI,2003,67.9
+Dominica,DMA,2003,94
+East Asia and the Pacific (WB),0,2003,9.135.197
+Europe and Central Asia (WB),0,2003,9.686.625
+Fiji,FJI,2003,93.7
+France,FRA,2003,99
+Germany,DEU,2003,99
+Grenada,GRD,2003,96
+Guinea,GIN,2003,2.970.402
+Haiti,HTI,2003,587.439
+Iceland,ISL,2003,99
+Ireland,IRL,2003,99
+Jordan,JOR,2003,8.989.232
+Latin America and Caribbean (WB),0,2003,9.008.651
+Low-income countries,0,2003,5.304.443
+Lower-middle-income countries,0,2003,6.675.361
+Mali,MLI,2003,24
+Middle East and North Africa (WB),0,2003,7.409.117
+Monaco,MCO,2003,99
+Montenegro,MNE,2003,9.777.346
+Mozambique,MOZ,2003,4.815.884
+Netherlands,NLD,2003,99
+New Zealand,NZL,2003,99
+Nigeria,NGA,2003,5.477.318
+North America (WB),0,2003,9.857.133
+Oman,OMN,2003,8.136.331
+Philippines,PHL,2003,9.259.069
+Saint Kitts and Nevis,KNA,2003,97.8
+Serbia,SRB,2003,9.639.724
+South Asia (WB),0,2003,6.009.578
+Southern and Eastern Africa (WB),0,2003,643.503
+Sub-Saharan Africa (WB),0,2003,5.834.713
+Sweden,SWE,2003,99
+Switzerland,CHE,2003,99
+Taiwan,TWN,2003,96.1
+United Kingdom,GBR,2003,99
+United States,USA,2003,99
+Upper-middle-income countries,0,2003,9.186.902
+Western and Central Africa (WB),0,2003,4.947.437
+World,OWID_WRL,2003,8.206.556
+Arab World (WB),0,2004,7.057.378
+Brazil,BRA,2004,8.861.624
+Cambodia,KHM,2004,7.360.995
+Cape Verde,CPV,2004,8.001.972
+Chad,TCD,2004,2.838.143
+Colombia,COL,2004,9.280.378
+East Asia and the Pacific (WB),0,2004,9.169.667
+El Salvador,SLV,2004,8.077.836
+Ethiopia,ETH,2004,35.9
+Europe and Central Asia (WB),0,2004,9.694.808
+Gabon,GAB,2004,8.184.552
+Hungary,HUN,2004,9.902.922
+Indonesia,IDN,2004,9.038.479
+Israel,ISR,2004,97.1
+Latin America and Caribbean (WB),0,2004,9.002.801
+Liberia,LBR,2004,4.310.837
+Libya,LBY,2004,8.541.682
+Low-income countries,0,2004,5.450.513
+Lower-middle-income countries,0,2004,6.748.014
+Mexico,MEX,2004,9.095.374
+Middle East and North Africa (WB),0,2004,747.003
+Morocco,MAR,2004,5.230.626
+North America (WB),0,2004,9.858.384
+Palau,PLW,2004,969.898
+Palestine,PSE,2004,9.247.751
+Peru,PER,2004,8.766.985
+Poland,POL,2004,9.961.794
+Puerto Rico,PRI,2004,9.052.934
+Qatar,QAT,2004,8.896.239
+Samoa,WSM,2004,9.854.048
+Saudi Arabia,SAU,2004,8.285.774
+Sierra Leone,SLE,2004,3.482.679
+Slovakia,SVK,2004,99.6
+Slovenia,SVN,2004,9.965.179
+South Asia (WB),0,2004,6.087.617
+Southern and Eastern Africa (WB),0,2004,6.560.042
+Spain,ESP,2004,9.716.512
+Sub-Saharan Africa (WB),0,2004,5.986.667
+Suriname,SUR,2004,8.959.806
+Syria,SYR,2004,8.084.452
+Trinidad and Tobago,TTO,2004,9.828.851
+Tunisia,TUN,2004,74.297
+Turkey,TUR,2004,8.736.549
+Upper-middle-income countries,0,2004,9.212.041
+Vanuatu,VUT,2004,78.4
+Western and Central Africa (WB),0,2004,5.138.341
+World,OWID_WRL,2004,8.243.894
+Yemen,YEM,2004,54.1
+Arab World (WB),0,2005,7.023.333
+Bermuda,BMU,2005,98
+Bhutan,BTN,2005,5.281.469
+Burkina Faso,BFA,2005,235.222
+Colombia,COL,2005,9.284.866
+Congo,COG,2005,7.611.479
+East Asia and the Pacific (WB),0,2005,9.201.266
+Egypt,EGY,2005,6.733.187
+Ethiopia,ETH,2005,2.982.034
+Europe and Central Asia (WB),0,2005,9.711.324
+Iran,IRN,2005,824.412
+Jordan,JOR,2005,9.113.075
+Kuwait,KWT,2005,9.327.446
+Laos,LAO,2005,7.270.226
+Latin America and Caribbean (WB),0,2005,9.051.114
+Low-income countries,0,2005,5.367.301
+Lower-middle-income countries,0,2005,6.713.873
+Madagascar,MDG,2005,5.893.594
+Malta,MLT,2005,9.236.309
+Mexico,MEX,2005,9.163.027
+Middle East and North Africa (WB),0,2005,7.446.502
+Nicaragua,NIC,2005,7.800.298
+Niger,NER,2005,2.867.242
+North America (WB),0,2005,9.860.252
+Pakistan,PAK,2005,4.987.364
+Peru,PER,2005,8.790.867
+South Asia (WB),0,2005,6.062.967
+Southern and Eastern Africa (WB),0,2005,6.394.247
+Spain,ESP,2005,9.775.069
+Sub-Saharan Africa (WB),0,2005,5.889.574
+Thailand,THA,2005,9.350.647
+Turkey,TUR,2005,8.822.906
+Turkmenistan,TKM,2005,99.4
+United Arab Emirates,ARE,2005,9.003.385
+Upper-middle-income countries,0,2005,9.244.411
+Virgin Islands,0,2005,90
+Western and Central Africa (WB),0,2005,5.142.382
+World,OWID_WRL,2005,8.237.777
+Algeria,DZA,2006,7.264.868
+Arab World (WB),0,2006,6.912.741
+Benin,BEN,2006,2.870.211
+Brazil,BRA,2006,8.961.523
+Burkina Faso,BFA,2006,2.247.258
+Colombia,COL,2006,9.229.968
+East Asia and the Pacific (WB),0,2006,9.241.628
+Egypt,EGY,2006,6.636.991
+El Salvador,SLV,2006,8.355.946
+Europe and Central Asia (WB),0,2006,9.714.116
+Haiti,HTI,2006,4.868.502
+India,IND,2006,6.275.447
+Indonesia,IDN,2006,9.198.227
+Iran,IRN,2006,8.233.132
+Kuwait,KWT,2006,9.328.212
+Latin America and Caribbean (WB),0,2006,9.046.458
+Low-income countries,0,2006,5.202.352
+Lower-middle-income countries,0,2006,6.742.352
+Macao,MAC,2006,9.349.975
+Maldives,MDV,2006,983.979
+Mali,MLI,2006,2.617.655
+Mexico,MEX,2006,9.173.452
+Middle East and North Africa (WB),0,2006,7.454.419
+New Caledonia,NCL,2006,97.3
+Nigeria,NGA,2006,7.019.835
+North America (WB),0,2006,9.861.302
+Pakistan,PAK,2006,5.415.121
+Palestine,PSE,2006,9.345.087
+Peru,PER,2006,8.869.934
+Senegal,SEN,2006,4.189.115
+South Asia (WB),0,2006,6.016.197
+Southern and Eastern Africa (WB),0,2006,6.213.387
+Spain,ESP,2006,9.775.214
+Sri Lanka,LKA,2006,9.080.883
+Sub-Saharan Africa (WB),0,2006,6.025.526
+Togo,TGO,2006,5.688.837
+Tonga,TON,2006,9.901.846
+Turkey,TUR,2006,8.811.939
+Uganda,UGA,2006,7.137.314
+Upper-middle-income countries,0,2006,9.273.255
+Uruguay,URY,2006,9.778.963
+Western and Central Africa (WB),0,2006,5.747.115
+World,OWID_WRL,2006,8.246.365
+Arab World (WB),0,2007,6.987.659
+Azerbaijan,AZE,2007,9.959.319
+Bangladesh,BGD,2007,466.636
+Bolivia,BOL,2007,9.074.347
+Brazil,BRA,2007,9.000.937
+Burkina Faso,BFA,2007,2.829.366
+Cameroon,CMR,2007,7.067.994
+Cayman Islands,CYM,2007,9.886.782
+Colombia,COL,2007,9.265.179
+Democratic Republic of Congo,COD,2007,6.120.555
+Dominican Republic,DOM,2007,8.824.446
+East Asia and the Pacific (WB),0,2007,9.344.074
+East Timor,TLS,2007,50.6
+Ecuador,ECU,2007,9.209.679
+El Salvador,SLV,2007,8.202.863
+Ethiopia,ETH,2007,3.899.598
+Europe and Central Asia (WB),0,2007,9.724.182
+Honduras,HND,2007,8.358.899
+Jordan,JOR,2007,9.219.958
+Kenya,KEN,2007,7.215.703
+Kosovo,OWID_KOS,2007,91.9
+Kuwait,KWT,2007,9.366.419
+Latin America and Caribbean (WB),0,2007,9.107.581
+Lebanon,LBN,2007,8.961.244
+Liberia,LBR,2007,4.294.108
+Low-income countries,0,2007,5.335.608
+Lower-middle-income countries,0,2007,6.774.212
+Mauritania,MRT,2007,4.550.378
+Mexico,MEX,2007,9.279.517
+Middle East and North Africa (WB),0,2007,7.523.202
+Namibia,NAM,2007,7.648.659
+North America (WB),0,2007,986.258
+Pakistan,PAK,2007,5.213.683
+Palestine,PSE,2007,937.617
+Paraguay,PRY,2007,9.455.822
+Peru,PER,2007,8.959.081
+Qatar,QAT,2007,9.308.255
+South Africa,ZAF,2007,8.871.725
+South Asia (WB),0,2007,6.170.198
+Southern and Eastern Africa (WB),0,2007,6.283.576
+Spain,ESP,2007,9.793.884
+Sub-Saharan Africa (WB),0,2007,5.771.746
+Tunisia,TUN,2007,771.904
+Turkey,TUR,2007,886.559
+Upper-middle-income countries,0,2007,9.357.468
+Uruguay,URY,2007,9.786.389
+Venezuela,VEN,2007,9.515.464
+Western and Central Africa (WB),0,2007,5.011.955
+World,OWID_WRL,2007,8.292.806
+Zambia,ZMB,2007,6.112.709
+Albania,ALB,2008,9.593.864
+Algeria,DZA,2008,7.513.605
+Arab World (WB),0,2008,7.067.663
+Bolivia,BOL,2008,9.069.811
+Brazil,BRA,2008,9.003.662
+Burundi,BDI,2008,4.808.406
+Cambodia,KHM,2008,7.687.129
+Chile,CHL,2008,9.864.901
+Colombia,COL,2008,9.337.818
+East Asia and the Pacific (WB),0,2008,9.372.558
+Ecuador,ECU,2008,9.239.005
+El Salvador,SLV,2008,839.513
+Eritrea,ERI,2008,6.466.297
+Europe and Central Asia (WB),0,2008,9.735.377
+Indonesia,IDN,2008,921.923
+Iran,IRN,2008,829.623
+Kuwait,KWT,2008,938.983
+Latin America and Caribbean (WB),0,2008,9.132.739
+Low-income countries,0,2008,541.951
+Lower-middle-income countries,0,2008,6.838.011
+Mexico,MEX,2008,929.256
+Middle East and North Africa (WB),0,2008,7.584.242
+Morocco,MAR,2008,5.514.792
+Nigeria,NGA,2008,5.107.766
+North America (WB),0,2008,9.864.645
+North Korea,PRK,2008,9.999.819
+Oman,OMN,2008,8.662.114
+Pakistan,PAK,2008,5.552.637
+Palestine,PSE,2008,9.400.984
+Paraguay,PRY,2008,9.329.208
+Philippines,PHL,2008,954.201
+Qatar,QAT,2008,9.398.973
+Sao Tome and Principe,STP,2008,6.953.639
+South Asia (WB),0,2008,6.279.358
+South Korea,KOR,2008,9.796.594
+South Sudan,SSD,2008,2.683.128
+Southern and Eastern Africa (WB),0,2008,6.330.951
+Spain,ESP,2008,9.763.061
+Sri Lanka,LKA,2008,9.055.795
+Sub-Saharan Africa (WB),0,2008,5.788.128
+Sudan,SDN,2008,5.351.738
+Suriname,SUR,2008,9.462.094
+Tunisia,TUN,2008,7.771.462
+Upper-middle-income countries,0,2008,9.385.072
+Uruguay,URY,2008,9.816.356
+Western and Central Africa (WB),0,2008,4.981.004
+World,OWID_WRL,2008,8.325.666
+Arab World (WB),0,2009,6.958.039
+Azerbaijan,AZE,2009,9.975.984
+Belarus,BLR,2009,9.961.706
+Bolivia,BOL,2009,9.116.783
+Brazil,BRA,2009,9.029.821
+Cambodia,KHM,2009,7.613.796
+Chile,CHL,2009,9.855.368
+Colombia,COL,2009,9.324.469
+East Asia and the Pacific (WB),0,2009,9.402.799
+Ecuador,ECU,2009,9.224.976
+El Salvador,SLV,2009,8.410.289
+Europe and Central Asia (WB),0,2009,9.741.368
+Greece,GRC,2009,9.390.511
+Guyana,GUY,2009,8.499.401
+Indonesia,IDN,2009,925.817
+Kazakhstan,KAZ,2009,9.973.241
+Kyrgyzstan,KGZ,2009,9.924.343
+Latin America and Caribbean (WB),0,2009,9.159.747
+Lebanon,LBN,2009,9.118.419
+Lesotho,LSO,2009,758.002
+Low-income countries,0,2009,5.465.457
+Lower-middle-income countries,0,2009,6.918.902
+Madagascar,MDG,2009,6.448.091
+Mexico,MEX,2009,9.344.188
+Middle East and North Africa (WB),0,2009,7.586.177
+Morocco,MAR,2009,5.608.367
+Mozambique,MOZ,2009,5.058.381
+Pakistan,PAK,2009,5.489.264
+Palestine,PSE,2009,9.443.018
+Paraguay,PRY,2009,9.375.424
+Qatar,QAT,2009,9.472.429
+Senegal,SEN,2009,4.803.678
+South Africa,ZAF,2009,9.289.486
+South Asia (WB),0,2009,6.346.568
+Southern and Eastern Africa (WB),0,2009,6.400.042
+Spain,ESP,2009,9.767.927
+Sub-Saharan Africa (WB),0,2009,5.865.356
+Togo,TGO,2009,5.709.338
+Turkey,TUR,2009,9.081.672
+Upper-middle-income countries,0,2009,9.393.437
+Uruguay,URY,2009,9.826.723
+Venezuela,VEN,2009,9.551.199
+Vietnam,VNM,2009,9.352.045
+Western and Central Africa (WB),0,2009,5.069.238
+World,OWID_WRL,2009,835.132
+Arab World,0,2010,77.364.586
+Arab World (WB),0,2010,7.051.842
+Aruba,ABW,2010,9.682.264
+Azerbaijan,AZE,2010,9.977.114
+Bahrain,BHR,2010,9.455.679
+Brazil,BRA,2010,9.037.918
+Cameroon,CMR,2010,7.129.051
+Caribbean small states,0,2010,9.176.071
+Central African Republic,CAF,2010,3.675.261
+Central Europe and the Baltics,0,2010,9.936.096
+China,CHN,2010,9.512.448
+Colombia,COL,2010,9.337.233
+Dominican Republic,DOM,2010,8.953.873
+Early-demographic dividend,0,2010,7.650.836
+East Asia & Pacific,0,2010,9.510.822
+East Asia & Pacific (IDA & IBRD),0,2010,9.468.925
+East Asia & Pacific (excluding high income),0,2010,9.475.167
+East Asia and the Pacific (WB),0,2010,9.412.464
+East Timor,TLS,2010,5.830.898
+Ecuador,ECU,2010,9.185.404
+Egypt,EGY,2010,7.204.785
+El Salvador,SLV,2010,8.449.272
+Equatorial Guinea,GNQ,2010,9.437.054
+Eswatini,SWZ,2010,8.309.829
+Europe & Central Asia,0,2010,9.899.759
+Europe & Central Asia (IDA & IBRD),0,2010,9.889.095
+Europe & Central Asia (excluding high income),0,2010,9.879.964
+Europe and Central Asia (WB),0,2010,9.774.728
+Fragile and conflict affected situations,0,2010,6.833.667
+Ghana,GHA,2010,7.149.707
+Guinea,GIN,2010,2.530.774
+Heavily indebted poor countries (HIPC),0,2010,57.837.166
+Honduras,HND,2010,8.475.536
+IBRD only,0,2010,8.732.906
+IDA & IBRD total,0,2010,8.239.069
+IDA blend,0,2010,69.031.975
+IDA only,0,2010,61.650.894
+IDA total,0,2010,6.443.312
+Jordan,JOR,2010,9.255.104
+Kazakhstan,KAZ,2010,9.978.163
+Kuwait,KWT,2010,9.446.901
+Late-demographic dividend,0,2010,9.478.494
+Latin America & Caribbean,0,2010,9.262.431
+Latin America & Caribbean (IDA & IBRD),0,2010,924.664
+Latin America & Caribbean (excluding high income),0,2010,9.244.799
+Latin America and Caribbean (WB),0,2010,9.158.735
+Least developed countries: UN classification,0,2010,60.568.233
+Low income,0,2010,5.657.406
+Low-income countries,0,2010,5.508.571
+Lower middle income,0,2010,7.391.008
+Lower-middle-income countries,0,2010,7.093.375
+Malawi,MWI,2010,6.130.972
+Malaysia,MYS,2010,9.311.789
+Mali,MLI,2010,3.109.975
+Mexico,MEX,2010,9.306.894
+Middle East & North Africa,0,2010,80.750.015
+Middle East & North Africa (IDA & IBRD),0,2010,7.823.286
+Middle East & North Africa (excluding high income),0,2010,7.843.881
+Middle East and North Africa (WB),0,2010,7.666.655
+Middle income,0,2010,8.438.868
+Mongolia,MNG,2010,98.257
+Oman,OMN,2010,86.939
+Other small states,0,2010,8.364.996
+Pakistan,PAK,2010,5.537.519
+Palestine,PSE,2010,9.471.748
+Panama,PAN,2010,9.409.412
+Papua New Guinea,PNG,2010,61.6
+Paraguay,PRY,2010,9.387.092
+Pre-demographic dividend,0,2010,58.624.794
+Puerto Rico,PRI,2010,9.196.523
+Qatar,QAT,2010,9.628.374
+Russia,RUS,2010,9.968.427
+Rwanda,RWA,2010,6.585.227
+Seychelles,SYC,2010,9.395.423
+Singapore,SGP,2010,9.585.733
+Small states,0,2010,85.654.785
+South Africa,ZAF,2010,9.287.732
+South Asia,0,2010,6.669.118
+South Asia (IDA & IBRD),0,2010,6.669.118
+South Asia (WB),0,2010,6.603.606
+Southern and Eastern Africa (WB),0,2010,6.461.788
+Spain,ESP,2010,977.489
+Sri Lanka,LKA,2010,9.118.136
+Sub-Saharan Africa,0,2010,60.880.547
+Sub-Saharan Africa (IDA & IBRD),0,2010,60.880.547
+Sub-Saharan Africa (WB),0,2010,5.921.304
+Sub-Saharan Africa (excluding high income),0,2010,60.875.755
+Suriname,SUR,2010,9.467.575
+Tajikistan,TJK,2010,99.7
+Tanzania,TZA,2010,678.007
+Thailand,THA,2010,9.643.091
+Tunisia,TUN,2010,7.913.058
+Turkey,TUR,2010,926.606
+Uganda,UGA,2010,7.321.188
+Upper middle income,0,2010,9.426.899
+Upper-middle-income countries,0,2010,941.354
+Uruguay,URY,2010,9.807.271
+Western and Central Africa (WB),0,2010,5.115.696
+World,OWID_WRL,2010,84.16
+Zambia,ZMB,2010,8.300.767
+Afghanistan,AFG,2011,3.144.885
+Albania,ALB,2011,968.453
+Andorra,AND,2011,100
+Arab World (WB),0,2011,722.775
+Armenia,ARM,2011,9.974.441
+Austria,AUT,2011,98
+Azerbaijan,AZE,2011,9.977.863
+Bahrain,BHR,2011,92.3
+Bangladesh,BGD,2011,5.876.918
+Bolivia,BOL,2011,9.222.615
+Bosnia and Herzegovina,BIH,2011,9.814.204
+Brazil,BRA,2011,9.141.124
+Brunei,BRN,2011,9.608.556
+Bulgaria,BGR,2011,9.835.245
+Chile,CHL,2011,9.670.301
+Colombia,COL,2011,9.358.053
+Congo,COG,2011,7.931.117
+Cook Islands,COK,2011,95
+Costa Rica,CRI,2011,9.740.658
+Croatia,HRV,2011,9.912.536
+Cyprus,CYP,2011,9.867.843
+Czechia,CZE,2011,99
+Dominican Republic,DOM,2011,9.010.638
+East Asia and the Pacific (WB),0,2011,9.383.104
+Ecuador,ECU,2011,915.869
+El Salvador,SLV,2011,8.549.399
+Estonia,EST,2011,9.988.579
+Europe and Central Asia (WB),0,2011,9.788.421
+Gibraltar,GIB,2011,80
+Honduras,HND,2011,851.233
+India,IND,2011,6.930.256
+Indonesia,IDN,2011,9.281.191
+Italy,ITA,2011,9.884.828
+Jordan,JOR,2011,9.590.445
+Laos,LAO,2011,5.828.794
+Latin America and Caribbean (WB),0,2011,9.215.575
+Latvia,LVA,2011,998.959
+Liechtenstein,LIE,2011,100
+Lithuania,LTU,2011,998.156
+Low-income countries,0,2011,5.713.771
+Lower-middle-income countries,0,2011,7.101.206
+Macao,MAC,2011,9.564.004
+Mali,MLI,2011,3.061.867
+Malta,MLT,2011,9.330.736
+Marshall Islands,MHL,2011,9.826.508
+Mauritius,MUS,2011,8.924.984
+Mexico,MEX,2011,9.351.998
+Middle East and North Africa (WB),0,2011,7.735.669
+Montenegro,MNE,2011,9.844.221
+Morocco,MAR,2011,6.708.416
+Namibia,NAM,2011,8.827.463
+Nepal,NPL,2011,5.962.725
+Niue,NIU,2011,95
+Norway,NOR,2011,100
+Pakistan,PAK,2011,5.473.802
+Palestine,PSE,2011,9.502.582
+Portugal,PRT,2011,9.447.705
+Qatar,QAT,2011,9.640.687
+Romania,ROU,2011,9.860.429
+Samoa,WSM,2011,9.897.326
+San Marino,SMR,2011,96
+Senegal,SEN,2011,5.181.455
+Serbia,SRB,2011,9.796.241
+Singapore,SGP,2011,9.618.604
+Solomon Islands,SLB,2011,84.1
+South Africa,ZAF,2011,9.310.214
+South Asia (WB),0,2011,6.650.597
+Southern and Eastern Africa (WB),0,2011,6.682.965
+Spain,ESP,2011,9.778.375
+Sub-Saharan Africa (WB),0,2011,6.078.816
+Togo,TGO,2011,6.040.994
+Tonga,TON,2011,9.938.553
+Tunisia,TUN,2011,7.965.391
+Turkey,TUR,2011,9.410.609
+Upper-middle-income countries,0,2011,9.438.587
+Uruguay,URY,2011,983.359
+Vatican,VAT,2011,100
+Venezuela,VEN,2011,9.477.022
+Western and Central Africa (WB),0,2011,5.176.631
+World,OWID_WRL,2011,8.432.265
+Zimbabwe,ZWE,2011,8.358.271
+Albania,ALB,2012,9.724.697
+Arab World (WB),0,2012,7.570.189
+Azerbaijan,AZE,2012,9.977.577
+Bangladesh,BGD,2012,5.786.075
+Benin,BEN,2012,3.294.882
+Bhutan,BTN,2012,5.531.756
+Bolivia,BOL,2012,9.446.057
+Brazil,BRA,2012,9.133.785
+Cape Verde,CPV,2012,8.532.779
+Comoros,COM,2012,4.919.614
+Cote d'Ivoire,CIV,2012,4.098.163
+Cuba,CUB,2012,9.967.311
+Democratic Republic of Congo,COD,2012,7.501.719
+Dominican Republic,DOM,2012,9.015.518
+East Asia and the Pacific (WB),0,2012,9.402.285
+Ecuador,ECU,2012,9.206.473
+Egypt,EGY,2012,7.386.559
+Europe and Central Asia (WB),0,2012,9.798.754
+Gabon,GAB,2012,822.838
+Guatemala,GTM,2012,7.826.486
+Honduras,HND,2012,8.535.555
+Iran,IRN,2012,8.362.599
+Iraq,IRQ,2012,77.2
+Jordan,JOR,2012,9.789.032
+Kuwait,KWT,2012,9.551.317
+Latin America and Caribbean (WB),0,2012,9.239.838
+Low-income countries,0,2012,5.759.889
+Lower-middle-income countries,0,2012,7.184.989
+Madagascar,MDG,2012,7.157.262
+Mauritius,MUS,2012,9.176.601
+Mexico,MEX,2012,942.284
+Middle East and North Africa (WB),0,2012,7.985.406
+Morocco,MAR,2012,6.942.539
+Niger,NER,2012,3.056.039
+North Macedonia,MKD,2012,97.6
+Pakistan,PAK,2012,5.676.434
+Palestine,PSE,2012,9.567.101
+Paraguay,PRY,2012,9.419.747
+Peru,PER,2012,9.384.173
+Qatar,QAT,2012,9.667.859
+Rwanda,RWA,2012,6.833.103
+Sao Tome and Principe,STP,2012,901.431
+Singapore,SGP,2012,9.636.979
+South Africa,ZAF,2012,9.372.947
+South Asia (WB),0,2012,6.730.776
+Southern and Eastern Africa (WB),0,2012,6.836.135
+Spain,ESP,2012,9.789.454
+Sub-Saharan Africa (WB),0,2012,6.196.924
+Suriname,SUR,2012,9.286.866
+Tanzania,TZA,2012,7.810.059
+Tunisia,TUN,2012,8.021.875
+Turkey,TUR,2012,9.491.975
+Uganda,UGA,2012,7.019.822
+Ukraine,UKR,2012,9.997.435
+Upper-middle-income countries,0,2012,9.483.447
+Uruguay,URY,2012,9.839.594
+Western and Central Africa (WB),0,2012,5.241.016
+World,OWID_WRL,2012,8.476.106
+Arab World (WB),0,2013,7.327.648
+Azerbaijan,AZE,2013,9.978.936
+Bangladesh,BGD,2013,6.101.554
+Bosnia and Herzegovina,BIH,2013,9.699.177
+Botswana,BWA,2013,8.682.318
+Brazil,BRA,2013,9.148.424
+Central Europe and the Baltics (WB),0,2013,9.929.847
+Chile,CHL,2013,9.626.706
+Dominican Republic,DOM,2013,9.085.815
+East Asia and the Pacific (WB),0,2013,9.412.432
+Ecuador,ECU,2013,9.329.463
+Egypt,EGY,2013,724.425
+El Salvador,SLV,2013,8.676.758
+Europe and Central Asia (WB),0,2013,9.805.367
+Gambia,GMB,2013,4.195.005
+Guatemala,GTM,2013,7.703.867
+Honduras,HND,2013,8.546.442
+Iran,IRN,2013,846.268
+Kuwait,KWT,2013,9.558.582
+Latin America and Caribbean (WB),0,2013,9.244.463
+Low-income countries,0,2013,5.855.048
+Lower-middle-income countries,0,2013,7.241.251
+Mauritania,MRT,2013,6.206.875
+Mauritius,MUS,2013,9.149.003
+Mexico,MEX,2013,9.396.285
+Middle East and North Africa (WB),0,2013,7.786.291
+Pakistan,PAK,2013,5.559.499
+Palau,PLW,2013,9.950.313
+Palestine,PSE,2013,9.604.603
+Paraguay,PRY,2013,9.505.904
+Philippines,PHL,2013,96.398
+Qatar,QAT,2013,9.747.785
+Saudi Arabia,SAU,2013,9.442.634
+Senegal,SEN,2013,435.345
+Sierra Leone,SLE,2013,3.242.617
+Singapore,SGP,2013,9.654.802
+South Asia (WB),0,2013,6.805.453
+Southern and Eastern Africa (WB),0,2013,693.831
+Spain,ESP,2013,9.807.913
+Sub-Saharan Africa (WB),0,2013,6.283.043
+Thailand,THA,2013,9.370.207
+Turkey,TUR,2013,9.525.666
+Upper-middle-income countries,0,2013,9.460.601
+Uruguay,URY,2013,9.836.387
+Uzbekistan,UZB,2013,9.999.486
+Western and Central Africa (WB),0,2013,5.300.278
+World,OWID_WRL,2013,8.486.014
+Angola,AGO,2014,6.603.011
+Antigua and Barbuda,ATG,2014,98.95
+Arab World (WB),0,2014,7.757.787
+Argentina,ARG,2014,9.803.402
+Azerbaijan,AZE,2014,9.978.899
+Bangladesh,BGD,2014,610.933
+Bosnia and Herzegovina,BIH,2014,9.837.765
+Botswana,BWA,2014,8.770.751
+Brazil,BRA,2014,9.172.943
+Burkina Faso,BFA,2014,345.994
+Burundi,BDI,2014,6.151.349
+Cambodia,KHM,2014,7.805.509
+Central Europe and the Baltics (WB),0,2014,9.931.573
+Chad,TCD,2014,3.904.967
+Colombia,COL,2014,9.418.625
+Comoros,COM,2014,7.757.327
+Cote d'Ivoire,CIV,2014,4.390.842
+Dominican Republic,DOM,2014,9.176.376
+East Asia and the Pacific (WB),0,2014,9.465.799
+Ecuador,ECU,2014,9.422.264
+Equatorial Guinea,GNQ,2014,9.495.674
+Eritrea,ERI,2014,7.279.049
+Europe and Central Asia (WB),0,2014,9.809.614
+Gambia,GMB,2014,5.438.756
+Georgia,GEO,2014,9.958.619
+Greece,GRC,2014,9.753.238
+Guatemala,GTM,2014,812.859
+Guinea,GIN,2014,3.200.384
+Guinea-Bissau,GNB,2014,4.558.116
+Guyana,GUY,2014,8.563.973
+Honduras,HND,2014,8.719.753
+Hungary,HUN,2014,9.905.012
+Indonesia,IDN,2014,9.511.622
+Iran,IRN,2014,8.470.524
+Iraq,IRQ,2014,82.2
+Jamaica,JAM,2014,8.813.225
+Kenya,KEN,2014,7.873.304
+Latin America and Caribbean (WB),0,2014,9.288.939
+Lesotho,LSO,2014,766.352
+Libya,LBY,2014,9.104.144
+Low-income countries,0,2014,5.889.173
+Lower-middle-income countries,0,2014,7.323.756
+Malawi,MWI,2014,6.514.537
+Maldives,MDV,2014,9.861.012
+Mauritius,MUS,2014,9.247.476
+Mexico,MEX,2014,9.455.588
+Middle East and North Africa (WB),0,2014,8.156.906
+Moldova,MDA,2014,9.935.989
+Morocco,MAR,2014,755.862
+Myanmar,MMR,2014,9.292.316
+New Caledonia,NCL,2014,9.680.667
+North Macedonia,MKD,2014,9.775.175
+Oman,OMN,2014,919.812
+Pakistan,PAK,2014,5.697.715
+Palestine,PSE,2014,9.621.293
+Papua New Guinea,PNG,2014,6.309.609
+Paraguay,PRY,2014,9.503.481
+Peru,PER,2014,9.370.795
+Poland,POL,2014,9.977.411
+Qatar,QAT,2014,9.774.669
+Rwanda,RWA,2014,7.080.413
+Sierra Leone,SLE,2014,4.718.624
+Singapore,SGP,2014,9.671.669
+Slovenia,SVN,2014,9.971.005
+South Africa,ZAF,2014,941.399
+South Asia (WB),0,2014,6.879.317
+Southern and Eastern Africa (WB),0,2014,6.983.477
+Spain,ESP,2014,9.809.372
+Sub-Saharan Africa (WB),0,2014,6.351.338
+Syria,SYR,2014,86.3
+Tajikistan,TJK,2014,9.976.841
+Trinidad and Tobago,TTO,2014,9.891.949
+Tunisia,TUN,2014,7.903.643
+Turkey,TUR,2014,9.543.963
+Turkmenistan,TKM,2014,9.967.285
+Ukraine,UKR,2014,9.975.347
+Upper-middle-income countries,0,2014,9.530.264
+Uruguay,URY,2014,9.843.593
+Uzbekistan,UZB,2014,9.998.055
+Vanuatu,VUT,2014,84.7
+Western and Central Africa (WB),0,2014,5.400.676
+World,OWID_WRL,2014,8.543.371
+Yemen,YEM,2014,6.878.942
+Zimbabwe,ZWE,2014,8.869.342
+Afghanistan,AFG,2015,3.816.804
+Albania,ALB,2015,975.539
+Algeria,DZA,2015,796.084
+Angola,AGO,2015,7.116.416
+Arab World (WB),0,2015,7.498.121
+Argentina,ARG,2015,9.808.997
+Armenia,ARM,2015,9.976.842
+Aruba,ABW,2015,975.242
+Azerbaijan,AZE,2015,9.978.806
+Bahrain,BHR,2015,9.571.726
+Bangladesh,BGD,2015,6.513.733
+Belarus,BLR,2015,9.972.204
+Belize,BLZ,2015,8.277.682
+Benin,BEN,2015,3.844.714
+Bhutan,BTN,2015,6.390.682
+Bolivia,BOL,2015,9.245.508
+Bosnia and Herzegovina,BIH,2015,9.848.576
+Botswana,BWA,2015,8.822.441
+Brazil,BRA,2015,920.479
+Brunei,BRN,2015,9.665.653
+Bulgaria,BGR,2015,9.838.858
+Burkina Faso,BFA,2015,377.467
+Burundi,BDI,2015,8.549.609
+Cambodia,KHM,2015,8.052.649
+Cameroon,CMR,2015,7.498.558
+Cape Verde,CPV,2015,8.679.029
+Central African Republic,CAF,2015,3.675.261
+Central Europe and the Baltics (WB),0,2015,9.933.277
+Chad,TCD,2015,2.600.299
+Chile,CHL,2015,9.687.413
+China,CHN,2015,9.635.745
+Colombia,COL,2015,9.424.505
+Comoros,COM,2015,7.813.739
+Congo,COG,2015,7.931.117
+Costa Rica,CRI,2015,9.764.725
+Cote d'Ivoire,CIV,2015,4.326.532
+Croatia,HRV,2015,9.927.259
+Cuba,CUB,2015,9.971.072
+Cyprus,CYP,2015,9.905.978
+Democratic Republic of Congo,COD,2015,7.722.167
+Dominican Republic,DOM,2015,9.199.121
+East Asia and the Pacific (WB),0,2015,948.695
+East Timor,TLS,2015,6.406.614
+Ecuador,ECU,2015,9.445.566
+Egypt,EGY,2015,7.584.262
+El Salvador,SLV,2015,8.796.985
+Equatorial Guinea,GNQ,2015,9.519.566
+Eritrea,ERI,2015,7.384.525
+Estonia,EST,2015,9.982.351
+Eswatini,SWZ,2015,8.747.019
+Ethiopia,ETH,2015,4.903.152
+Europe and Central Asia (WB),0,2015,9.813.865
+Gabon,GAB,2015,8.323.788
+Gambia,GMB,2015,5.077.797
+Georgia,GEO,2015,9.975.962
+Ghana,GHA,2015,765.759
+Greece,GRC,2015,9.529.287
+Guam,GUM,2015,9.978.904
+Guatemala,GTM,2015,7.907.421
+Guinea,GIN,2015,3.047.279
+Guinea-Bissau,GNB,2015,5.977.285
+Guyana,GUY,2015,8.753.532
+Haiti,HTI,2015,6.068.935
+Honduras,HND,2015,8.790.683
+Hungary,HUN,2015,9.938.088
+India,IND,2015,722.253
+Indonesia,IDN,2015,9.521.793
+Iran,IRN,2015,8.717.253
+Iraq,IRQ,2015,7.972.176
+Italy,ITA,2015,9.901.579
+Jamaica,JAM,2015,884.999
+Jordan,JOR,2015,9.801.435
+Kazakhstan,KAZ,2015,9.978.785
+Kenya,KEN,2015,780.234
+Kuwait,KWT,2015,9.568.545
+Kyrgyzstan,KGZ,2015,9.950.132
+Laos,LAO,2015,8.466.104
+Latin America and Caribbean (WB),0,2015,9.305.001
+Latvia,LVA,2015,9.989.269
+Lebanon,LBN,2015,940.511
+Lesotho,LSO,2015,7.936.093
+Liberia,LBR,2015,4.760.014
+Libya,LBY,2015,9.138.887
+Lithuania,LTU,2015,9.982.328
+Low-income countries,0,2015,5.936.031
+Lower-middle-income countries,0,2015,7.402.703
+Macao,MAC,2015,962.276
+Madagascar,MDG,2015,646.563
+Malawi,MWI,2015,6.214.354
+Malaysia,MYS,2015,9.463.699
+Maldives,MDV,2015,9.932.102
+Mali,MLI,2015,3.306.889
+Malta,MLT,2015,9.406.661
+Marshall Islands,MHL,2015,9.826.508
+Mauritania,MRT,2015,5.212.356
+Mauritius,MUS,2015,927.076
+Mexico,MEX,2015,9.447.228
+Middle East and North Africa (WB),0,2015,7.955.848
+Moldova,MDA,2015,9.924.439
+Mongolia,MNG,2015,9.836.764
+Montenegro,MNE,2015,9.871.995
+Morocco,MAR,2015,7.171.055
+Mozambique,MOZ,2015,56.039
+Myanmar,MMR,2015,9.309.005
+Namibia,NAM,2015,908.205
+Nepal,NPL,2015,6.466.364
+New Caledonia,NCL,2015,9.693.782
+Nicaragua,NIC,2015,8.261.455
+Niger,NER,2015,191.026
+Nigeria,NGA,2015,5.956.808
+North Korea,PRK,2015,9.999.924
+North Macedonia,MKD,2015,9.784.376
+Oman,OMN,2015,9.303.861
+Pakistan,PAK,2015,5.644.031
+Palau,PLW,2015,9.659.374
+Palestine,PSE,2015,9.647.712
+Panama,PAN,2015,9.503.823
+Papua New Guinea,PNG,2015,6.343.349
+Paraguay,PRY,2015,9.555.484
+Peru,PER,2015,9.416.234
+Philippines,PHL,2015,9.818.255
+Poland,POL,2015,9.978.742
+Portugal,PRT,2015,9.542.811
+Puerto Rico,PRI,2015,9.332.942
+Qatar,QAT,2015,9.775.709
+Romania,ROU,2015,9.875.703
+Russia,RUS,2015,9.971.957
+Rwanda,RWA,2015,712.435
+Samoa,WSM,2015,9.901.501
+Sao Tome and Principe,STP,2015,9.174.711
+Saudi Arabia,SAU,2015,9.484.237
+Senegal,SEN,2015,5.562.485
+Serbia,SRB,2015,9.800.289
+Seychelles,SYC,2015,9.532.108
+Sierra Leone,SLE,2015,484.319
+Singapore,SGP,2015,9.682.549
+Slovenia,SVN,2015,9.971.476
+South Africa,ZAF,2015,9.436.792
+South Asia (WB),0,2015,6.975.716
+South Sudan,SSD,2015,3.197.625
+Southern and Eastern Africa (WB),0,2015,7.031.342
+Spain,ESP,2015,9.814.326
+Sri Lanka,LKA,2015,9.261.417
+Sub-Saharan Africa (WB),0,2015,6.413.228
+Sudan,SDN,2015,5.860.132
+Suriname,SUR,2015,9.553.899
+Syria,SYR,2015,8.630.393
+Tajikistan,TJK,2015,9.978.105
+Tanzania,TZA,2015,7.788.723
+Thailand,THA,2015,9.286.831
+Togo,TGO,2015,6.374.562
+Tonga,TON,2015,9.939.786
+Trinidad and Tobago,TTO,2015,9.896.958
+Tunisia,TUN,2015,8.105.419
+Turkey,TUR,2015,9.560.142
+Turkmenistan,TKM,2015,9.969.293
+Uganda,UGA,2015,7.380.984
+Ukraine,UKR,2015,9.976.411
+United Arab Emirates,ARE,2015,9.298.637
+Upper-middle-income countries,0,2015,9.507.114
+Uruguay,URY,2015,9.852.387
+Uzbekistan,UZB,2015,9.998.383
+Vanuatu,VUT,2015,8.505.868
+Venezuela,VEN,2015,9.660.522
+Vietnam,VNM,2015,9.451.427
+Western and Central Africa (WB),0,2015,5.481.832
+World,OWID_WRL,2015,8.560.183
+Yemen,YEM,2015,6.996.195
+Zambia,ZMB,2015,8.511.726
+Zimbabwe,ZWE,2015,8.687.348
+Arab World (WB),0,2016,7.638.673
+Armenia,ARM,2016,9.974.441
+Azerbaijan,AZE,2016,9.979.006
+Bangladesh,BGD,2016,7.275.872
+Brazil,BRA,2016,9.280.844
+Central Europe and the Baltics (WB),0,2016,993.535
+Chad,TCD,2016,2.231.155
+Colombia,COL,2016,9.465.385
+Democratic Republic of Congo,COD,2016,7.704.268
+Dominican Republic,DOM,2016,9.377.846
+East Asia and the Pacific (WB),0,2016,9.503.397
+Ecuador,ECU,2016,9.435.023
+El Salvador,SLV,2016,8.814.177
+Europe and Central Asia (WB),0,2016,9.823.154
+Haiti,HTI,2016,6.169.135
+Honduras,HND,2016,8.898.748
+Indonesia,IDN,2016,9.537.697
+Iran,IRN,2016,8.554.425
+Iraq,IRQ,2016,83.3
+Latin America and Caribbean (WB),0,2016,9.352.842
+Low-income countries,0,2016,6.010.976
+Lower-middle-income countries,0,2016,7.470.815
+Macao,MAC,2016,9.653.849
+Maldives,MDV,2016,9.773.495
+Mauritius,MUS,2016,9.315.784
+Mexico,MEX,2016,9.485.962
+Middle East and North Africa (WB),0,2016,8.059.259
+Myanmar,MMR,2016,755.512
+Palestine,PSE,2016,9.671.919
+Paraguay,PRY,2016,9.465.024
+Peru,PER,2016,9.417.367
+Serbia,SRB,2016,9.884.151
+Singapore,SGP,2016,9.704.956
+South Asia (WB),0,2016,7.110.493
+Southern and Eastern Africa (WB),0,2016,710.952
+Spain,ESP,2016,9.825.051
+Sri Lanka,LKA,2016,923.869
+Sub-Saharan Africa (WB),0,2016,648.614
+Turkey,TUR,2016,9.616.733
+Upper-middle-income countries,0,2016,9.564.911
+Uruguay,URY,2016,9.856.147
+Uzbekistan,UZB,2016,9.998.657
+Venezuela,VEN,2016,9.712.709
+Western and Central Africa (WB),0,2016,5.543.792
+World,OWID_WRL,2016,8.606.116
+Arab World (WB),0,2017,771.703
+Armenia,ARM,2017,9.973.607
+Azerbaijan,AZE,2017,9.979.123
+Bangladesh,BGD,2017,7.289.297
+Bhutan,BTN,2017,6.656.115
+Brazil,BRA,2017,9.307.582
+Burundi,BDI,2017,6.837.533
+Cayman Islands,CYM,2017,9.886.782
+Central Europe and the Baltics (WB),0,2017,9.937.043
+Chile,CHL,2017,9.640.228
+East Asia and the Pacific (WB),0,2017,9.520.588
+Ecuador,ECU,2017,9.282.979
+Egypt,EGY,2017,7.116.825
+El Salvador,SLV,2017,8.848.271
+Ethiopia,ETH,2017,5.177.118
+Europe and Central Asia (WB),0,2017,9.827.937
+Georgia,GEO,2017,9.936.426
+Iraq,IRQ,2017,85.6
+Kuwait,KWT,2017,9.603.595
+Latin America and Caribbean (WB),0,2017,9.359.473
+Liberia,LBR,2017,4.830.136
+Low-income countries,0,2017,6.112.589
+Lower-middle-income countries,0,2017,7.537.246
+Mexico,MEX,2017,9.497.278
+Middle East and North Africa (WB),0,2017,8.151.193
+Mozambique,MOZ,2017,6.065.543
+North America (WB),0,2017,987.193
+Oman,OMN,2017,95.576
+Pakistan,PAK,2017,5.913.205
+Palestine,PSE,2017,969.244
+Peru,PER,2017,9.414.961
+Puerto Rico,PRI,2017,92.39
+Saudi Arabia,SAU,2017,9.532.863
+Senegal,SEN,2017,5.190.042
+Singapore,SGP,2017,9.720.222
+South Africa,ZAF,2017,8.704.667
+South Asia (WB),0,2017,7.179.036
+Southern and Eastern Africa (WB),0,2017,7.100.907
+Sri Lanka,LKA,2017,9.189.575
+Sub-Saharan Africa (WB),0,2017,6.522.324
+Turkey,TUR,2017,9.615.053
+Upper-middle-income countries,0,2017,956.296
+Uruguay,URY,2017,9.861.572
+Western and Central Africa (WB),0,2017,5.648.554
+World,OWID_WRL,2017,8.628.823
+Algeria,DZA,2018,8.140.784
+Arab World (WB),0,2018,7.428.613
+Bangladesh,BGD,2018,739.122
+Brazil,BRA,2018,932.275
+Brunei,BRN,2018,9.721.411
+Burkina Faso,BFA,2018,3.934.585
+Cameroon,CMR,2018,7.707.104
+Central African Republic,CAF,2018,3.739.582
+Central Europe and the Baltics (WB),0,2018,9.938.724
+Colombia,COL,2018,9.509.251
+East Asia and the Pacific (WB),0,2018,9.530.794
+El Salvador,SLV,2018,890.086
+Eritrea,ERI,2018,7.657.052
+Europe and Central Asia (WB),0,2018,9.839.641
+Guatemala,GTM,2018,8.081.068
+Guinea,GIN,2018,3.961.768
+Honduras,HND,2018,8.720.524
+Indonesia,IDN,2018,9.565.856
+Kuwait,KWT,2018,9.605.647
+Latin America and Caribbean (WB),0,2018,9.372.667
+Low-income countries,0,2018,6.092.019
+Lower-middle-income countries,0,2018,7.594.947
+Madagascar,MDG,2018,7.667.968
+Mali,MLI,2018,3.547.377
+Mexico,MEX,2018,9.537.991
+Middle East and North Africa (WB),0,2018,7.900.979
+Nigeria,NGA,2018,6.201.601
+North America (WB),0,2018,9.872.725
+North Korea,PRK,2018,9.999.819
+Oman,OMN,2018,9.565.153
+Pakistan,PAK,2018,5.701.057
+Palestine,PSE,2018,9.721.861
+Panama,PAN,2018,9.541.181
+Paraguay,PRY,2018,940.208
+Peru,PER,2018,9.440.827
+Rwanda,RWA,2018,7.321.559
+Singapore,SGP,2018,9.734.486
+South Asia (WB),0,2018,7.208.151
+South Korea,KOR,2018,98.8
+South Sudan,SSD,2018,3.452.276
+Southern and Eastern Africa (WB),0,2018,7.139.262
+Spain,ESP,2018,984.365
+Sri Lanka,LKA,2018,9.170.982
+Sub-Saharan Africa (WB),0,2018,6.668.364
+Sudan,SDN,2018,6.069.718
+Thailand,THA,2018,9.376.776
+Uganda,UGA,2018,765.275
+Upper-middle-income countries,0,2018,9.542.072
+Uruguay,URY,2018,9.870.386
+Uzbekistan,UZB,2018,9.999.289
+Western and Central Africa (WB),0,2018,5.956.846
+World,OWID_WRL,2018,8.633.905
+Arab World (WB),0,2019,7.460.366
+Azerbaijan,AZE,2019,9.979.598
+Bangladesh,BGD,2019,7.468.446
+Belarus,BLR,2019,99.874
+Burkina Faso,BFA,2019,2.966.328
+Central Europe and the Baltics (WB),0,2019,9.940.212
+Colombia,COL,2019,9.524.927
+Cote d'Ivoire,CIV,2019,8.989.342
+East Asia and the Pacific (WB),0,2019,9.570.822
+El Salvador,SLV,2019,8.913.792
+Europe and Central Asia (WB),0,2019,9.843.328
+Honduras,HND,2019,8.850.743
+Italy,ITA,2019,993.491
+Kyrgyzstan,KGZ,2019,99.6
+Latin America and Caribbean (WB),0,2019,9.417.398
+Lebanon,LBN,2019,95.3
+Low-income countries,0,2019,6.111.123
+Lower-middle-income countries,0,2019,7.615.857
+Middle East and North Africa (WB),0,2019,79.341
+Myanmar,MMR,2019,8.906.995
+North America (WB),0,2019,9.873.326
+Pakistan,PAK,2019,5.799.886
+Palestine,PSE,2019,9.737.826
+Panama,PAN,2019,9.573.608
+Paraguay,PRY,2019,9.321.353
+Philippines,PHL,2019,9.627.817
+Serbia,SRB,2019,9.948.253
+Singapore,SGP,2019,9.747.958
+South Africa,ZAF,2019,9.502.297
+South Asia (WB),0,2019,7.194.279
+Southern and Eastern Africa (WB),0,2019,7.263.497
+Sri Lanka,LKA,2019,9.225.296
+Sub-Saharan Africa (WB),0,2019,6.741.086
+Togo,TGO,2019,6.653.708
+Turkey,TUR,2019,9.674.221
+United Arab Emirates,ARE,2019,9.778.251
+Upper-middle-income countries,0,2019,9.573.506
+Uruguay,URY,2019,9.877.035
+Uzbekistan,UZB,2019,9.999.995
+Vietnam,VNM,2019,9.575.387
+Western and Central Africa (WB),0,2019,5.951.172
+World,OWID_WRL,2019,864.896
+Arab World (WB),0,2020,7.502.288
+Armenia,ARM,2020,9.978.861
+Aruba,ABW,2020,97.99
+Bangladesh,BGD,2020,749.089
+Bolivia,BOL,2020,9.385.256
+Cameroon,CMR,2020,78.23
+Central African Republic,CAF,2020,37.49
+Central Europe and the Baltics (WB),0,2020,9.941.718
+China,CHN,2020,97.15
+Colombia,COL,2020,9.563.633
+East Asia and the Pacific (WB),0,2020,9.600.155
+East Timor,TLS,2020,69.9
+Ecuador,ECU,2020,936.261
+El Salvador,SLV,2020,8.998.453
+Eswatini,SWZ,2020,89.28
+Europe and Central Asia (WB),0,2020,9.850.483
+Ghana,GHA,2020,80.38
+Indonesia,IDN,2020,9.599.901
+Kazakhstan,KAZ,2020,99.8
+Kuwait,KWT,2020,9.645.754
+Latin America and Caribbean (WB),0,2020,9.419.925
+Low-income countries,0,2020,6.118.985
+Lower-middle-income countries,0,2020,7.669.681
+Mali,MLI,2020,3.076.141
+Mexico,MEX,2020,9.524.785
+Middle East and North Africa (WB),0,2020,7.976.233
+Mongolia,MNG,2020,9.918.327
+Mozambique,MOZ,2020,5.977.961
+North America (WB),0,2020,9.874.023
+Paraguay,PRY,2020,9.454.455
+Peru,PER,2020,9.449.793
+Saudi Arabia,SAU,2020,9.758.507
+Seychelles,SYC,2020,96.2
+Singapore,SGP,2020,9.713.185
+South Asia (WB),0,2020,7.265.861
+Southern and Eastern Africa (WB),0,2020,7.278.562
+Spain,ESP,2020,9.859.446
+Sri Lanka,LKA,2020,923.823
+Sub-Saharan Africa (WB),0,2020,6.754.763
+Upper-middle-income countries,0,2020,9.595.692
+Western and Central Africa (WB),0,2020,5.961.751
+World,OWID_WRL,2020,8.671.151
+Zambia,ZMB,2020,87.5
+Afghanistan,AFG,2021,3.726.604
+Arab World (WB),0,2021,7.523.118
+Brunei,BRN,2021,97.59
+Bulgaria,BGR,2021,98.42
+Central Europe and the Baltics (WB),0,2021,9.942.526
+Congo,COG,2021,80.61
+Costa Rica,CRI,2021,98.04
+Croatia,HRV,2021,99.45
+Cuba,CUB,2021,9.967.311
+Cyprus,CYP,2021,99.36
+East Asia and the Pacific (WB),0,2021,9.603.774
+Ecuador,ECU,2021,9.448.359
+Estonia,EST,2021,99.87
+Europe and Central Asia (WB),0,2021,9.852.377
+Guinea,GIN,2021,45.33
+Hungary,HUN,2021,99.1
+Jordan,JOR,2021,98.42
+Latin America and Caribbean (WB),0,2021,9.445.465
+Latvia,LVA,2021,99.89
+Lithuania,LTU,2021,99.83
+Low-income countries,0,2021,6.166.338
+Lower-middle-income countries,0,2021,7.725.923
+Macao,MAC,2021,97.11
+Maldives,MDV,2021,97.86
+Malta,MLT,2021,94.94
+Mauritania,MRT,2021,66.96
+Mauritius,MUS,2021,92.15
+Middle East and North Africa (WB),0,2021,8.001.225
+Moldova,MDA,2021,99.6
+Montenegro,MNE,2021,98.98
+Namibia,NAM,2021,92.25
+Nepal,NPL,2021,71.15
+North America (WB),0,2021,9.873.995
+Poland,POL,2021,99.8
+Portugal,PRT,2021,96.78
+Puerto Rico,PRI,2021,92.4
+Romania,ROU,2021,98.9
+Russia,RUS,2021,9.992.777
+Rwanda,RWA,2021,75.9
+Samoa,WSM,2021,99.1
+South Africa,ZAF,2021,9.000.136
+South Asia (WB),0,2021,7.342.247
+Southern and Eastern Africa (WB),0,2021,7.258.116
+Sri Lanka,LKA,2021,9.242.903
+Sub-Saharan Africa (WB),0,2021,6.759.193
+Suriname,SUR,2021,95
+Thailand,THA,2021,94.1
+Tonga,TON,2021,99.4
+Ukraine,UKR,2021,100
+United Arab Emirates,ARE,2021,9.812.636
+Upper-middle-income countries,0,2021,9.591.167
+Uzbekistan,UZB,2021,9.999.792
+Vanuatu,VUT,2021,89.1
+Western and Central Africa (WB),0,2021,6.003.461
+World,OWID_WRL,2021,8.685.275
+Albania,ALB,2022,98.5
+Angola,AGO,2022,72.4
+Arab World (WB),0,2022,7.517.153
+Benin,BEN,2022,47.1
+Bhutan,BTN,2022,72.1
+Bosnia and Herzegovina,BIH,2022,98.3
+Brazil,BRA,2022,94.69
+Burkina Faso,BFA,2022,34.49
+Burundi,BDI,2022,75.54
+Cambodia,KHM,2022,83.78
+Cape Verde,CPV,2022,91
+Central Europe and the Baltics (WB),0,2022,9.942.752
+Chad,TCD,2022,27.28
+Chile,CHL,2022,97.16
+Comoros,COM,2022,61.71
+Democratic Republic of Congo,COD,2022,80.54
+Dominican Republic,DOM,2022,95.5
+Ecuador,ECU,2022,9.394.812
+Egypt,EGY,2022,74.5
+Europe and Central Asia (WB),0,2022,9.854.106
+Gabon,GAB,2022,85.69
+Gambia,GMB,2022,58.67
+Georgia,GEO,2022,9.957.499
+Guatemala,GTM,2022,84.27
+Guinea-Bissau,GNB,2022,53.9
+Guyana,GUY,2022,90.03
+India,IND,2022,7.632.278
+Iran,IRN,2022,88.96
+Kenya,KEN,2022,82.88
+Laos,LAO,2022,87.52
+Latin America and Caribbean (WB),0,2022,9.460.012
+Lesotho,LSO,2022,82.01
+Low-income countries,0,2022,6.187.062
+Lower-middle-income countries,0,2022,7.779.563
+Madagascar,MDG,2022,77.48
+Malawi,MWI,2022,68.08
+Middle East and North Africa (WB),0,2022,8.035.759
+Morocco,MAR,2022,77.35
+Niger,NER,2022,38.1
+North America (WB),0,2022,9.874.067
+Oman,OMN,2022,9.733.906
+Sao Tome and Principe,STP,2022,93.75
+Senegal,SEN,2022,57.67
+Sierra Leone,SLE,2022,48.64
+Somalia,SOM,2022,41.025
+South Asia (WB),0,2022,7.418.776
+Southern and Eastern Africa (WB),0,2022,726.004
+Sub-Saharan Africa (WB),0,2022,6.771.501
+Tanzania,TZA,2022,82.02
+Tunisia,TUN,2022,83.56
+Uganda,UGA,2022,80.59
+United Arab Emirates,ARE,2022,9.828.541
+Upper-middle-income countries,0,2022,9.595.597
+Uzbekistan,UZB,2022,9.999.998
+Venezuela,VEN,2022,97.6
+Western and Central Africa (WB),0,2022,603.127
+World,OWID_WRL,2022,8.701.175
+Zimbabwe,ZWE,2022,89.85
